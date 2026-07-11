@@ -1,0 +1,7065 @@
+[
+ {
+  "number": 48,
+  "title": "OS X application bundle support",
+  "createdAt": "2015-03-09T18:52:56Z",
+  "updatedAt": "2016-12-07T12:26:19Z",
+  "url": "https://github.com/mesonbuild/meson/issues/48",
+  "author": "stopiccot",
+  "comments": 4,
+  "reactions": 1,
+  "labels": [
+   "enhancement",
+   "OS:macos"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 106,
+  "title": "Distinguish between \"public\" and \"private\" dependencies",
+  "createdAt": "2015-05-05T18:29:08Z",
+  "updatedAt": "2024-06-27T16:54:22Z",
+  "url": "https://github.com/mesonbuild/meson/issues/106",
+  "author": "johan-boule",
+  "comments": 22,
+  "reactions": 5,
+  "labels": [
+   "enhancement",
+   "dependencies",
+   "pkgconfig"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 123,
+  "title": "add support for golang",
+  "createdAt": "2015-05-20T13:56:41Z",
+  "updatedAt": "2025-04-19T15:59:51Z",
+  "url": "https://github.com/mesonbuild/meson/issues/123",
+  "author": "igor-raits",
+  "comments": 30,
+  "reactions": 21,
+  "labels": [
+   "enhancement"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 308,
+  "title": "Boost and cross compilation not working for android.",
+  "createdAt": "2015-11-09T03:52:08Z",
+  "updatedAt": "2018-02-12T15:03:34Z",
+  "url": "https://github.com/mesonbuild/meson/issues/308",
+  "author": "germandiagogomez",
+  "comments": 0,
+  "reactions": 0,
+  "labels": [
+   "cross",
+   "dependencies",
+   "android",
+   "boost"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 341,
+  "title": "SWIG support",
+  "createdAt": "2015-12-28T09:13:05Z",
+  "updatedAt": "2023-11-19T06:19:37Z",
+  "url": "https://github.com/mesonbuild/meson/issues/341",
+  "author": "igor-raits",
+  "comments": 4,
+  "reactions": 13,
+  "labels": [
+   "enhancement",
+   "language:java"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 348,
+  "title": "Support jar dependencies via maven",
+  "createdAt": "2016-01-05T17:08:38Z",
+  "updatedAt": "2025-09-17T08:28:11Z",
+  "url": "https://github.com/mesonbuild/meson/issues/348",
+  "author": "Meai",
+  "comments": 6,
+  "reactions": 0,
+  "labels": [
+   "enhancement",
+   "dependencies",
+   "language:java",
+   "android"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 375,
+  "title": "Feature Request: include_file() or subfile()",
+  "createdAt": "2016-02-02T12:48:34Z",
+  "updatedAt": "2021-01-14T23:09:42Z",
+  "url": "https://github.com/mesonbuild/meson/issues/375",
+  "author": "tp-m",
+  "comments": 1,
+  "reactions": 3,
+  "labels": [
+   "design discussion"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 382,
+  "title": "Detect changes to pkg-config files and reconfigure",
+  "createdAt": "2016-02-10T02:29:33Z",
+  "updatedAt": "2022-07-08T08:40:29Z",
+  "url": "https://github.com/mesonbuild/meson/issues/382",
+  "author": "jsapparts",
+  "comments": 29,
+  "reactions": 2,
+  "labels": [
+   "enhancement",
+   "dependencies",
+   "pkgconfig"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 434,
+  "title": "wrap: support for existing directories",
+  "createdAt": "2016-03-05T13:26:10Z",
+  "updatedAt": "2016-10-25T18:21:00Z",
+  "url": "https://github.com/mesonbuild/meson/issues/434",
+  "author": "nioncode",
+  "comments": 2,
+  "reactions": 0,
+  "labels": [
+   "enhancement"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 476,
+  "title": "Create Vala & C++ project",
+  "createdAt": "2016-03-25T18:15:27Z",
+  "updatedAt": "2016-10-25T18:17:35Z",
+  "url": "https://github.com/mesonbuild/meson/issues/476",
+  "author": null,
+  "comments": 9,
+  "reactions": 1,
+  "labels": [
+   "compilers",
+   "language:vala"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 553,
+  "title": "Ambiguous threads dependency",
+  "createdAt": "2016-05-24T21:26:29Z",
+  "updatedAt": "2023-07-28T19:07:21Z",
+  "url": "https://github.com/mesonbuild/meson/issues/553",
+  "author": "LRN",
+  "comments": 27,
+  "reactions": 1,
+  "labels": [
+   "dependencies"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 620,
+  "title": "How to add boost dependency to the pkg-config file?",
+  "createdAt": "2016-06-27T13:49:25Z",
+  "updatedAt": "2020-04-15T06:53:14Z",
+  "url": "https://github.com/mesonbuild/meson/issues/620",
+  "author": "0x1997",
+  "comments": 6,
+  "reactions": 0,
+  "labels": [
+   "dependencies",
+   "boost",
+   "pkgconfig"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 707,
+  "title": "Better project options",
+  "createdAt": "2016-08-23T20:28:08Z",
+  "updatedAt": "2020-02-25T20:56:47Z",
+  "url": "https://github.com/mesonbuild/meson/issues/707",
+  "author": "jpakkane",
+  "comments": 1,
+  "reactions": 4,
+  "labels": [
+   "enhancement"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 728,
+  "title": "Splitting an empty string produces different results based on input",
+  "createdAt": "2016-08-27T08:17:00Z",
+  "updatedAt": "2025-02-03T16:54:48Z",
+  "url": "https://github.com/mesonbuild/meson/issues/728",
+  "author": "QuLogic",
+  "comments": 1,
+  "reactions": 1,
+  "labels": [
+   "documentation"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 799,
+  "title": "Detailed coverage is broken with Vala",
+  "createdAt": "2016-09-19T23:35:05Z",
+  "updatedAt": "2021-04-03T17:56:58Z",
+  "url": "https://github.com/mesonbuild/meson/issues/799",
+  "author": "arteymix",
+  "comments": 4,
+  "reactions": 0,
+  "labels": [
+   "language:vala"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 825,
+  "title": "Add docdir builtin option",
+  "createdAt": "2016-09-26T03:37:17Z",
+  "updatedAt": "2024-11-17T22:25:13Z",
+  "url": "https://github.com/mesonbuild/meson/issues/825",
+  "author": "QuLogic",
+  "comments": 7,
+  "reactions": 4,
+  "labels": [
+   "enhancement"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 837,
+  "title": "xdg module for common freedesktop tasks",
+  "createdAt": "2016-09-29T05:24:35Z",
+  "updatedAt": "2021-08-31T20:24:19Z",
+  "url": "https://github.com/mesonbuild/meson/issues/837",
+  "author": "TingPing",
+  "comments": 29,
+  "reactions": 10,
+  "labels": [
+   "enhancement",
+   "gnome"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 841,
+  "title": "Handle better missing source files",
+  "createdAt": "2016-10-01T15:42:00Z",
+  "updatedAt": "2024-12-31T17:06:03Z",
+  "url": "https://github.com/mesonbuild/meson/issues/841",
+  "author": "csoriano1618",
+  "comments": 7,
+  "reactions": 0,
+  "labels": [
+   "compilers",
+   "language:D"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 894,
+  "title": "Add valadoc support",
+  "createdAt": "2016-10-11T20:32:10Z",
+  "updatedAt": "2023-05-08T19:34:11Z",
+  "url": "https://github.com/mesonbuild/meson/issues/894",
+  "author": "nirbheek",
+  "comments": 5,
+  "reactions": 9,
+  "labels": [
+   "language:vala"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 909,
+  "title": "Appstream support",
+  "createdAt": "2016-10-15T03:54:27Z",
+  "updatedAt": "2016-10-15T04:06:21Z",
+  "url": "https://github.com/mesonbuild/meson/issues/909",
+  "author": "mcatanzaro",
+  "comments": 1,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 985,
+  "title": "Print a list of all not-found required and optional dependencies",
+  "createdAt": "2016-11-02T14:38:09Z",
+  "updatedAt": "2020-03-02T10:33:00Z",
+  "url": "https://github.com/mesonbuild/meson/issues/985",
+  "author": "nirbheek",
+  "comments": 3,
+  "reactions": 4,
+  "labels": [
+   "enhancement"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 1014,
+  "title": "Add generate_typelib in the GNOME module",
+  "createdAt": "2016-11-08T22:27:00Z",
+  "updatedAt": "2025-10-08T17:53:01Z",
+  "url": "https://github.com/mesonbuild/meson/issues/1014",
+  "author": "arteymix",
+  "comments": 9,
+  "reactions": 0,
+  "labels": [
+   "gnome"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 1018,
+  "title": "Free Pascal support",
+  "createdAt": "2016-11-09T22:18:43Z",
+  "updatedAt": "2026-03-07T00:01:13Z",
+  "url": "https://github.com/mesonbuild/meson/issues/1018",
+  "author": "J5lx",
+  "comments": 13,
+  "reactions": 0,
+  "labels": [
+   "enhancement",
+   "compilers"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 1041,
+  "title": "Run more language and framework tests on Windows",
+  "createdAt": "2016-11-13T10:05:09Z",
+  "updatedAt": "2025-02-04T11:09:14Z",
+  "url": "https://github.com/mesonbuild/meson/issues/1041",
+  "author": "nirbheek",
+  "comments": 4,
+  "reactions": 0,
+  "labels": [
+   "OS:windows",
+   "CI"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 1081,
+  "title": "implement get_option('xxxdir_abs')",
+  "createdAt": "2016-11-21T23:57:47Z",
+  "updatedAt": "2017-02-18T10:46:38Z",
+  "url": "https://github.com/mesonbuild/meson/issues/1081",
+  "author": "igor-raits",
+  "comments": 10,
+  "reactions": 0,
+  "labels": [
+   "enhancement"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 1104,
+  "title": "Make a fully statically linked .exe",
+  "createdAt": "2016-11-28T11:25:49Z",
+  "updatedAt": "2022-11-08T11:03:33Z",
+  "url": "https://github.com/mesonbuild/meson/issues/1104",
+  "author": "msink",
+  "comments": 8,
+  "reactions": 3,
+  "labels": [
+   "enhancement",
+   "OS:windows"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 1122,
+  "title": "Errors in pkgconfig file lead to very cryptic build failure",
+  "createdAt": "2016-12-01T03:13:52Z",
+  "updatedAt": "2022-08-22T07:20:36Z",
+  "url": "https://github.com/mesonbuild/meson/issues/1122",
+  "author": "ndufresne",
+  "comments": 1,
+  "reactions": 0,
+  "labels": [
+   "enhancement",
+   "gnome"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 1160,
+  "title": "Investigate extension for OS X bundles",
+  "createdAt": "2016-12-07T12:21:59Z",
+  "updatedAt": "2026-02-25T09:43:00Z",
+  "url": "https://github.com/mesonbuild/meson/issues/1160",
+  "author": "nirbheek",
+  "comments": 18,
+  "reactions": 0,
+  "labels": [
+   "OS:macos"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 1179,
+  "title": "gnome.compile_resource() should look into directory where xml is",
+  "createdAt": "2016-12-10T14:20:29Z",
+  "updatedAt": "2016-12-10T14:20:44Z",
+  "url": "https://github.com/mesonbuild/meson/issues/1179",
+  "author": "igor-raits",
+  "comments": 1,
+  "reactions": 0,
+  "labels": [
+   "gnome"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 1181,
+  "title": "gnome: g-ir-scanner scan build error",
+  "createdAt": "2016-12-10T16:11:19Z",
+  "updatedAt": "2022-08-30T00:46:48Z",
+  "url": "https://github.com/mesonbuild/meson/issues/1181",
+  "author": "tp-m",
+  "comments": 14,
+  "reactions": 0,
+  "labels": [
+   "bug",
+   "gnome",
+   "gstreamer"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 1195,
+  "title": "Vala pkg-config dependency checks don't look for vapi files",
+  "createdAt": "2016-12-14T20:13:34Z",
+  "updatedAt": "2020-11-24T13:10:36Z",
+  "url": "https://github.com/mesonbuild/meson/issues/1195",
+  "author": "nirbheek",
+  "comments": 19,
+  "reactions": 0,
+  "labels": [
+   "bug",
+   "gnome",
+   "language:vala"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 1203,
+  "title": "pkgconfig: choose datadir/libdir automatically for installation",
+  "createdAt": "2016-12-16T20:12:06Z",
+  "updatedAt": "2018-02-28T01:45:05Z",
+  "url": "https://github.com/mesonbuild/meson/issues/1203",
+  "author": "igor-raits",
+  "comments": 0,
+  "reactions": 0,
+  "labels": [
+   "enhancement",
+   "pkgconfig"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 1229,
+  "title": "Vala: specify generated vala headers as dependencies of other subfolders in the same project",
+  "createdAt": "2016-12-19T12:46:55Z",
+  "updatedAt": "2020-07-17T23:10:54Z",
+  "url": "https://github.com/mesonbuild/meson/issues/1229",
+  "author": "arrufat",
+  "comments": 4,
+  "reactions": 1,
+  "labels": [
+   "language:vala"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 1237,
+  "title": "inconsistency in output during installation",
+  "createdAt": "2016-12-19T20:07:20Z",
+  "updatedAt": "2024-12-31T17:07:20Z",
+  "url": "https://github.com/mesonbuild/meson/issues/1237",
+  "author": "igor-raits",
+  "comments": 1,
+  "reactions": 0,
+  "labels": [
+   "good first issue"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 1307,
+  "title": "Adding a vapi to 'sources' promote the depending library to a Vala target",
+  "createdAt": "2017-01-15T22:03:30Z",
+  "updatedAt": "2017-01-16T06:31:39Z",
+  "url": "https://github.com/mesonbuild/meson/issues/1307",
+  "author": "arteymix",
+  "comments": 1,
+  "reactions": 0,
+  "labels": [
+   "bug",
+   "language:vala"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 1314,
+  "title": "Discussion: \"Run configurations\" for Meson",
+  "createdAt": "2017-01-17T14:27:50Z",
+  "updatedAt": "2026-02-25T08:28:51Z",
+  "url": "https://github.com/mesonbuild/meson/issues/1314",
+  "author": "doraskayo",
+  "comments": 7,
+  "reactions": 0,
+  "labels": [
+   "enhancement",
+   "design discussion"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 1317,
+  "title": "Promote LLVM IR to a first-class language",
+  "createdAt": "2017-01-19T16:27:34Z",
+  "updatedAt": "2017-01-19T16:55:17Z",
+  "url": "https://github.com/mesonbuild/meson/issues/1317",
+  "author": "npmccallum",
+  "comments": 0,
+  "reactions": 2,
+  "labels": [
+   "enhancement"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 1362,
+  "title": "Support SOURCE_DATE_EPOCH for reproducible builds",
+  "createdAt": "2017-02-06T05:01:36Z",
+  "updatedAt": "2020-05-18T06:47:04Z",
+  "url": "https://github.com/mesonbuild/meson/issues/1362",
+  "author": "obilaniu",
+  "comments": 10,
+  "reactions": 4,
+  "labels": [
+   "enhancement"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 1364,
+  "title": "Improve verbosity of custom target definitions",
+  "createdAt": "2017-02-06T18:28:05Z",
+  "updatedAt": "2017-04-22T12:35:53Z",
+  "url": "https://github.com/mesonbuild/meson/issues/1364",
+  "author": "nirbheek",
+  "comments": 1,
+  "reactions": 5,
+  "labels": [
+   "enhancement",
+   "generators"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 1393,
+  "title": "Support options that must be specified and have no default value",
+  "createdAt": "2017-02-16T20:50:05Z",
+  "updatedAt": "2017-02-16T22:15:11Z",
+  "url": "https://github.com/mesonbuild/meson/issues/1393",
+  "author": "nirbheek",
+  "comments": 1,
+  "reactions": 0,
+  "labels": [
+   "enhancement"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 1398,
+  "title": "Support separate prefix and exec-prefix",
+  "createdAt": "2017-02-18T10:18:14Z",
+  "updatedAt": "2017-02-18T10:41:27Z",
+  "url": "https://github.com/mesonbuild/meson/issues/1398",
+  "author": "Keruspe",
+  "comments": 5,
+  "reactions": 0,
+  "labels": [
+   "enhancement"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 1419,
+  "title": "Relative paths used in gnome module are incorrect with VS backend",
+  "createdAt": "2017-02-23T06:03:31Z",
+  "updatedAt": "2017-02-23T06:11:18Z",
+  "url": "https://github.com/mesonbuild/meson/issues/1419",
+  "author": "TingPing",
+  "comments": 1,
+  "reactions": 0,
+  "labels": [
+   "bug",
+   "gnome",
+   "OS:windows"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 1453,
+  "title": "Add support for gobject-introspection overrides",
+  "createdAt": "2017-03-07T22:06:17Z",
+  "updatedAt": "2017-03-08T12:16:56Z",
+  "url": "https://github.com/mesonbuild/meson/issues/1453",
+  "author": "bochecha",
+  "comments": 3,
+  "reactions": 0,
+  "labels": [
+   "enhancement",
+   "gnome"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 1468,
+  "title": "Code Analysis Support",
+  "createdAt": "2017-03-14T12:24:56Z",
+  "updatedAt": "2026-02-27T12:42:08Z",
+  "url": "https://github.com/mesonbuild/meson/issues/1468",
+  "author": "nordlow",
+  "comments": 4,
+  "reactions": 1,
+  "labels": [
+   "enhancement",
+   "backend:ninja"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 1484,
+  "title": "Missing dependencies are included in valac arguments",
+  "createdAt": "2017-03-20T14:04:23Z",
+  "updatedAt": "2017-06-04T18:14:18Z",
+  "url": "https://github.com/mesonbuild/meson/issues/1484",
+  "author": "arteymix",
+  "comments": 0,
+  "reactions": 0,
+  "labels": [
+   "help wanted",
+   "language:vala",
+   "dependencies"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 1489,
+  "title": "Also detect and use wrap files provided by subprojects",
+  "createdAt": "2017-03-21T17:30:32Z",
+  "updatedAt": "2020-04-11T10:26:09Z",
+  "url": "https://github.com/mesonbuild/meson/issues/1489",
+  "author": "nirbheek",
+  "comments": 8,
+  "reactions": 2,
+  "labels": [
+   "enhancement",
+   "gnome",
+   "gstreamer"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 1492,
+  "title": "Add a mechanism to add prefix/suffixes to configuration files",
+  "createdAt": "2017-03-22T17:08:26Z",
+  "updatedAt": "2021-09-12T23:11:02Z",
+  "url": "https://github.com/mesonbuild/meson/issues/1492",
+  "author": "nirbheek",
+  "comments": 3,
+  "reactions": 0,
+  "labels": [
+   "enhancement",
+   "help wanted"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 1493,
+  "title": "Containerized Execution & Safe Persistent Caching",
+  "createdAt": "2017-03-22T21:11:43Z",
+  "updatedAt": "2026-02-27T12:39:53Z",
+  "url": "https://github.com/mesonbuild/meson/issues/1493",
+  "author": "nordlow",
+  "comments": 5,
+  "reactions": 0,
+  "labels": [
+   "design discussion"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 1497,
+  "title": "Cross file whitespace parsing error",
+  "createdAt": "2017-03-23T03:03:29Z",
+  "updatedAt": "2025-02-03T16:52:54Z",
+  "url": "https://github.com/mesonbuild/meson/issues/1497",
+  "author": "codido",
+  "comments": 4,
+  "reactions": 0,
+  "labels": [
+   "bug",
+   "help wanted",
+   "parser/interpreter",
+   "machine files"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 1503,
+  "title": "Environment variables are not serialized during configuration",
+  "createdAt": "2017-03-24T08:43:48Z",
+  "updatedAt": "2020-04-08T16:24:45Z",
+  "url": "https://github.com/mesonbuild/meson/issues/1503",
+  "author": "TingPing",
+  "comments": 12,
+  "reactions": 0,
+  "labels": [
+   "enhancement"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 1508,
+  "title": "Add support for pkg variables (pkgdatadir, pkgincludedir, pkglibdir, pkglibexecdir)",
+  "createdAt": "2017-03-24T15:31:40Z",
+  "updatedAt": "2017-04-26T05:48:11Z",
+  "url": "https://github.com/mesonbuild/meson/issues/1508",
+  "author": "mbiebl",
+  "comments": 10,
+  "reactions": 1,
+  "labels": [
+   "enhancement"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 1524,
+  "title": "Allow specifying dependency information in the cross-info file",
+  "createdAt": "2017-03-27T06:29:32Z",
+  "updatedAt": "2017-04-09T17:31:03Z",
+  "url": "https://github.com/mesonbuild/meson/issues/1524",
+  "author": "nirbheek",
+  "comments": 5,
+  "reactions": 0,
+  "labels": [
+   "enhancement",
+   "cross",
+   "help wanted",
+   "mesa/wayland/xorg"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 1525,
+  "title": "Fetching dependency information in the absence of pkg-config",
+  "createdAt": "2017-03-27T06:51:56Z",
+  "updatedAt": "2021-08-27T04:00:19Z",
+  "url": "https://github.com/mesonbuild/meson/issues/1525",
+  "author": "nirbheek",
+  "comments": 0,
+  "reactions": 1,
+  "labels": [
+   "enhancement",
+   "OS:windows",
+   "dependencies"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 1526,
+  "title": "Normalize file paths before writing them out for better Windows support",
+  "createdAt": "2017-03-27T09:21:57Z",
+  "updatedAt": "2021-11-30T21:04:11Z",
+  "url": "https://github.com/mesonbuild/meson/issues/1526",
+  "author": "nirbheek",
+  "comments": 3,
+  "reactions": 1,
+  "labels": [
+   "enhancement",
+   "OS:windows"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 1543,
+  "title": "Support getting the minimum version from a dependency() object",
+  "createdAt": "2017-03-30T10:08:19Z",
+  "updatedAt": "2019-10-25T08:05:02Z",
+  "url": "https://github.com/mesonbuild/meson/issues/1543",
+  "author": "baedert",
+  "comments": 3,
+  "reactions": 1,
+  "labels": [
+   "enhancement",
+   "gnome",
+   "dependencies"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 1550,
+  "title": "install_man does not accept target output",
+  "createdAt": "2017-04-02T16:52:25Z",
+  "updatedAt": "2026-03-04T13:43:06Z",
+  "url": "https://github.com/mesonbuild/meson/issues/1550",
+  "author": "keszybz",
+  "comments": 16,
+  "reactions": 5,
+  "labels": [
+   "generators",
+   "documentation",
+   "systemd",
+   "design discussion"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 1564,
+  "title": "custom_target replaces back-slashes with slashes in the command arguments",
+  "createdAt": "2017-04-05T05:46:27Z",
+  "updatedAt": "2024-11-11T16:36:51Z",
+  "url": "https://github.com/mesonbuild/meson/issues/1564",
+  "author": "keszybz",
+  "comments": 27,
+  "reactions": 12,
+  "labels": [
+   "bug",
+   "generators"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 1578,
+  "title": "document more host_machine.system() and host_machine.cpu() return values.",
+  "createdAt": "2017-04-06T19:47:18Z",
+  "updatedAt": "2018-03-28T16:41:08Z",
+  "url": "https://github.com/mesonbuild/meson/issues/1578",
+  "author": "anholt",
+  "comments": 11,
+  "reactions": 0,
+  "labels": [
+   "documentation"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 1579,
+  "title": "RFE: bash autocompletion support",
+  "createdAt": "2017-04-06T21:01:46Z",
+  "updatedAt": "2019-12-01T20:37:14Z",
+  "url": "https://github.com/mesonbuild/meson/issues/1579",
+  "author": "mbiebl",
+  "comments": 13,
+  "reactions": 0,
+  "labels": [
+   "enhancement"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 1589,
+  "title": "GNOME mkenums support incomplete",
+  "createdAt": "2017-04-09T10:11:15Z",
+  "updatedAt": "2017-04-09T17:58:14Z",
+  "url": "https://github.com/mesonbuild/meson/issues/1589",
+  "author": "sdroege",
+  "comments": 4,
+  "reactions": 0,
+  "labels": [
+   "gnome",
+   "gstreamer"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 1592,
+  "title": "Substitute absolute path to files() when used in string formatting",
+  "createdAt": "2017-04-09T17:12:16Z",
+  "updatedAt": "2023-09-21T23:18:32Z",
+  "url": "https://github.com/mesonbuild/meson/issues/1592",
+  "author": "nirbheek",
+  "comments": 11,
+  "reactions": 0,
+  "labels": [
+   "enhancement",
+   "help wanted"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 1597,
+  "title": "osx test-case \"2 Library version\" and \"common 4/6\" failing for xcode-backend",
+  "createdAt": "2017-04-09T21:56:34Z",
+  "updatedAt": "2025-02-04T10:15:12Z",
+  "url": "https://github.com/mesonbuild/meson/issues/1597",
+  "author": "kalmiya",
+  "comments": 0,
+  "reactions": 0,
+  "labels": [
+   "bug",
+   "OS:macos",
+   "backend:xcode"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 1601,
+  "title": "files installed by modules are not tracked",
+  "createdAt": "2017-04-10T02:17:29Z",
+  "updatedAt": "2023-05-01T11:35:00Z",
+  "url": "https://github.com/mesonbuild/meson/issues/1601",
+  "author": "keszybz",
+  "comments": 11,
+  "reactions": 5,
+  "labels": [
+   "bug"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 1608,
+  "title": "Arbitrary overriding of binaries",
+  "createdAt": "2017-04-11T14:08:51Z",
+  "updatedAt": "2025-03-28T09:45:21Z",
+  "url": "https://github.com/mesonbuild/meson/issues/1608",
+  "author": "jpakkane",
+  "comments": 6,
+  "reactions": 0,
+  "labels": [
+   "documentation",
+   "machine files"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 1636,
+  "title": "unit-tests failed on non-english windows",
+  "createdAt": "2017-04-17T10:09:11Z",
+  "updatedAt": "2025-03-13T10:38:20Z",
+  "url": "https://github.com/mesonbuild/meson/issues/1636",
+  "author": "msink",
+  "comments": 8,
+  "reactions": 1,
+  "labels": [
+   "bug",
+   "OS:windows",
+   "meson tests"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 1658,
+  "title": "We should pass --define-prefix to pkg-config",
+  "createdAt": "2017-04-22T16:55:22Z",
+  "updatedAt": "2017-04-22T19:04:41Z",
+  "url": "https://github.com/mesonbuild/meson/issues/1658",
+  "author": "nacho",
+  "comments": 0,
+  "reactions": 1,
+  "labels": [
+   "enhancement"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 1686,
+  "title": "Qt5 preprocessed files missing in mesonintrospect --target-files",
+  "createdAt": "2017-04-25T21:19:23Z",
+  "updatedAt": "2018-02-12T15:08:45Z",
+  "url": "https://github.com/mesonbuild/meson/issues/1686",
+  "author": "hasselmm",
+  "comments": 4,
+  "reactions": 0,
+  "labels": [
+   "bug",
+   "help wanted",
+   "qt"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 1687,
+  "title": "Missing support for GSettings enum files",
+  "createdAt": "2017-04-26T05:11:52Z",
+  "updatedAt": "2020-04-21T03:23:42Z",
+  "url": "https://github.com/mesonbuild/meson/issues/1687",
+  "author": "mcatanzaro",
+  "comments": 11,
+  "reactions": 2,
+  "labels": [
+   "enhancement",
+   "gnome"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 1733,
+  "title": "i18n.gettext: POTFILES.in does not support generated files",
+  "createdAt": "2017-05-04T09:52:36Z",
+  "updatedAt": "2020-11-23T02:58:32Z",
+  "url": "https://github.com/mesonbuild/meson/issues/1733",
+  "author": "matthiasclasen",
+  "comments": 3,
+  "reactions": 0,
+  "labels": [
+   "bug",
+   "gnome",
+   "module:i18n"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 1739,
+  "title": "i18n: Cannot specify per-language keywords",
+  "createdAt": "2017-05-05T11:19:21Z",
+  "updatedAt": "2020-01-12T21:00:36Z",
+  "url": "https://github.com/mesonbuild/meson/issues/1739",
+  "author": "sardemff7",
+  "comments": 6,
+  "reactions": 0,
+  "labels": [
+   "module:i18n"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 1748,
+  "title": "Provide a way to run in parallel all tests within a single test executable",
+  "createdAt": "2017-05-06T19:54:31Z",
+  "updatedAt": "2022-04-17T22:24:21Z",
+  "url": "https://github.com/mesonbuild/meson/issues/1748",
+  "author": "nirbheek",
+  "comments": 3,
+  "reactions": 0,
+  "labels": [
+   "enhancement",
+   "test targets"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 1776,
+  "title": "Assembly test fails on ARM in sid",
+  "createdAt": "2017-05-10T18:25:40Z",
+  "updatedAt": "2021-08-27T02:58:05Z",
+  "url": "https://github.com/mesonbuild/meson/issues/1776",
+  "author": "jpakkane",
+  "comments": 8,
+  "reactions": 0,
+  "labels": [
+   "compilers"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 1781,
+  "title": "Add support for internal header and VAPI",
+  "createdAt": "2017-05-12T00:06:59Z",
+  "updatedAt": "2017-05-12T11:24:07Z",
+  "url": "https://github.com/mesonbuild/meson/issues/1781",
+  "author": "powerwaremediacore",
+  "comments": 0,
+  "reactions": 2,
+  "labels": [
+   "enhancement",
+   "language:vala"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 1789,
+  "title": "Introduce a package concept",
+  "createdAt": "2017-05-12T16:33:08Z",
+  "updatedAt": "2017-05-15T14:58:02Z",
+  "url": "https://github.com/mesonbuild/meson/issues/1789",
+  "author": "arteymix",
+  "comments": 6,
+  "reactions": 0,
+  "labels": [
+   "enhancement"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 1799,
+  "title": "VS and Xcode backends ignore link_depends",
+  "createdAt": "2017-05-14T10:51:12Z",
+  "updatedAt": "2021-10-05T16:11:09Z",
+  "url": "https://github.com/mesonbuild/meson/issues/1799",
+  "author": "jon-turney",
+  "comments": 19,
+  "reactions": 0,
+  "labels": [
+   "bug",
+   "OS:windows",
+   "OS:macos",
+   "generators"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 1811,
+  "title": "Provide a way for modules to register project configuration options",
+  "createdAt": "2017-05-17T16:04:42Z",
+  "updatedAt": "2021-11-30T14:56:00Z",
+  "url": "https://github.com/mesonbuild/meson/issues/1811",
+  "author": "nirbheek",
+  "comments": 1,
+  "reactions": 2,
+  "labels": [
+   "enhancement",
+   "gnome",
+   "gstreamer"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 1812,
+  "title": "Support generation of man pages with help2man",
+  "createdAt": "2017-05-17T17:10:49Z",
+  "updatedAt": "2026-03-04T13:03:06Z",
+  "url": "https://github.com/mesonbuild/meson/issues/1812",
+  "author": "nirbheek",
+  "comments": 2,
+  "reactions": 2,
+  "labels": [
+   "enhancement",
+   "gnome",
+   "help wanted"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 1844,
+  "title": "Documentation created by gtkdoc is not generated when compiling",
+  "createdAt": "2017-05-23T08:35:32Z",
+  "updatedAt": "2021-08-31T05:16:56Z",
+  "url": "https://github.com/mesonbuild/meson/issues/1844",
+  "author": "inigomartinez",
+  "comments": 9,
+  "reactions": 0,
+  "labels": [
+   "enhancement",
+   "gnome"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 1855,
+  "title": "Unable to add include paths to headers generated with custom targets that output directories",
+  "createdAt": "2017-05-25T20:52:56Z",
+  "updatedAt": "2024-04-19T16:16:23Z",
+  "url": "https://github.com/mesonbuild/meson/issues/1855",
+  "author": "lucasdemarchi",
+  "comments": 33,
+  "reactions": 0,
+  "labels": [
+   "enhancement",
+   "generators"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 1860,
+  "title": "generate_gir should be skipped if g-ir-scanner is not found",
+  "createdAt": "2017-05-26T14:40:21Z",
+  "updatedAt": "2017-05-26T15:56:13Z",
+  "url": "https://github.com/mesonbuild/meson/issues/1860",
+  "author": "nacho",
+  "comments": 1,
+  "reactions": 0,
+  "labels": [
+   "gnome"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 1864,
+  "title": "configure_file(): allow more than one substitution per string",
+  "createdAt": "2017-05-29T00:36:36Z",
+  "updatedAt": "2021-11-26T23:56:55Z",
+  "url": "https://github.com/mesonbuild/meson/issues/1864",
+  "author": "rindeal",
+  "comments": 3,
+  "reactions": 0,
+  "labels": [
+   "enhancement",
+   "help wanted",
+   "generators"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 1875,
+  "title": "gnome.gtkdoc() expands File arguments to builddir paths not sourcedir paths",
+  "createdAt": "2017-05-31T22:44:04Z",
+  "updatedAt": "2017-05-31T23:44:06Z",
+  "url": "https://github.com/mesonbuild/meson/issues/1875",
+  "author": "tp-m",
+  "comments": 1,
+  "reactions": 0,
+  "labels": [
+   "bug",
+   "gnome"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 1885,
+  "title": "Move stdsplit to mesontest",
+  "createdAt": "2017-06-03T10:45:09Z",
+  "updatedAt": "2017-06-07T14:17:11Z",
+  "url": "https://github.com/mesonbuild/meson/issues/1885",
+  "author": "jpakkane",
+  "comments": 2,
+  "reactions": 0,
+  "labels": [
+   "enhancement"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 1899,
+  "title": "Provide extra tool for clang dependencies.",
+  "createdAt": "2017-06-04T21:49:08Z",
+  "updatedAt": "2018-02-07T19:43:20Z",
+  "url": "https://github.com/mesonbuild/meson/issues/1899",
+  "author": "Tratoschek",
+  "comments": 5,
+  "reactions": 2,
+  "labels": [
+   "enhancement",
+   "dependencies"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 1904,
+  "title": "Can't seem to get includes to work using pkg-config on windows due to space in \"Program Files\" dir",
+  "createdAt": "2017-06-05T23:09:16Z",
+  "updatedAt": "2025-04-24T16:32:10Z",
+  "url": "https://github.com/mesonbuild/meson/issues/1904",
+  "author": "duncanmcneal",
+  "comments": 1,
+  "reactions": 0,
+  "labels": [
+   "bug",
+   "help wanted",
+   "module:pkgconfig"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 1905,
+  "title": "Default install location in windows",
+  "createdAt": "2017-06-05T23:11:18Z",
+  "updatedAt": "2025-02-05T17:32:27Z",
+  "url": "https://github.com/mesonbuild/meson/issues/1905",
+  "author": "duncanmcneal",
+  "comments": 4,
+  "reactions": 0,
+  "labels": [
+   "OS:windows",
+   "documentation"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 1907,
+  "title": "Inconsistency between library suffix generated on windows and link name created when using dependency()",
+  "createdAt": "2017-06-06T00:38:47Z",
+  "updatedAt": "2020-04-04T11:41:48Z",
+  "url": "https://github.com/mesonbuild/meson/issues/1907",
+  "author": "duncanmcneal",
+  "comments": 3,
+  "reactions": 0,
+  "labels": [
+   "bug",
+   "help wanted",
+   "OS:windows",
+   "dependencies"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 1916,
+  "title": "Code coverage report on the home page can be wrong",
+  "createdAt": "2017-06-08T07:35:18Z",
+  "updatedAt": "2026-06-22T08:09:32Z",
+  "url": "https://github.com/mesonbuild/meson/issues/1916",
+  "author": "nirbheek",
+  "comments": 2,
+  "reactions": 0,
+  "labels": [
+   "CI"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 1923,
+  "title": "Ability to get multiple variables out of fallback dependency",
+  "createdAt": "2017-06-09T22:57:26Z",
+  "updatedAt": "2017-06-11T03:58:32Z",
+  "url": "https://github.com/mesonbuild/meson/issues/1923",
+  "author": "TingPing",
+  "comments": 3,
+  "reactions": 0,
+  "labels": [
+   "enhancement",
+   "gnome",
+   "dependencies"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 1929,
+  "title": "csharp: Support passing resource IDs",
+  "createdAt": "2017-06-12T07:54:06Z",
+  "updatedAt": "2017-06-12T07:54:06Z",
+  "url": "https://github.com/mesonbuild/meson/issues/1929",
+  "author": "TingPing",
+  "comments": 0,
+  "reactions": 0,
+  "labels": [
+   "enhancement",
+   "compilers",
+   "help wanted"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 1971,
+  "title": "Provide a way for install scripts to access target-specific installation information",
+  "createdAt": "2017-06-20T23:29:51Z",
+  "updatedAt": "2017-06-20T23:30:14Z",
+  "url": "https://github.com/mesonbuild/meson/issues/1971",
+  "author": "nirbheek",
+  "comments": 0,
+  "reactions": 0,
+  "labels": [
+   "enhancement"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 1972,
+  "title": "Default libprefix on Debian like distribution seems not good.",
+  "createdAt": "2017-06-21T09:25:37Z",
+  "updatedAt": "2021-06-04T13:33:03Z",
+  "url": "https://github.com/mesonbuild/meson/issues/1972",
+  "author": "mgautierfr",
+  "comments": 15,
+  "reactions": 1,
+  "labels": [
+   "enhancement"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 1973,
+  "title": "Visual C++ language version",
+  "createdAt": "2017-06-21T09:52:57Z",
+  "updatedAt": "2017-12-29T14:20:24Z",
+  "url": "https://github.com/mesonbuild/meson/issues/1973",
+  "author": "Timmmm",
+  "comments": 2,
+  "reactions": 0,
+  "labels": [
+   "enhancement",
+   "compilers",
+   "OS:windows"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 1974,
+  "title": "Allow meson.add_custom_uninstall_script()",
+  "createdAt": "2017-06-21T10:35:02Z",
+  "updatedAt": "2021-03-01T13:07:52Z",
+  "url": "https://github.com/mesonbuild/meson/issues/1974",
+  "author": "nielsdg",
+  "comments": 10,
+  "reactions": 7,
+  "labels": [
+   "enhancement",
+   "help wanted"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 1994,
+  "title": "Dependencies for Vala added to the C build target",
+  "createdAt": "2017-06-24T00:10:07Z",
+  "updatedAt": "2022-04-27T19:39:59Z",
+  "url": "https://github.com/mesonbuild/meson/issues/1994",
+  "author": "ebassi",
+  "comments": 4,
+  "reactions": 0,
+  "labels": [
+   "bug",
+   "gnome",
+   "language:vala"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2009,
+  "title": "Have a 'clean' target for the current project (not subprojects)",
+  "createdAt": "2017-06-28T15:06:51Z",
+  "updatedAt": "2017-06-29T09:24:44Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2009",
+  "author": "arteymix",
+  "comments": 0,
+  "reactions": 0,
+  "labels": [
+   "enhancement"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2025,
+  "title": "install_man() does not take configuration_data",
+  "createdAt": "2017-07-03T01:14:45Z",
+  "updatedAt": "2017-07-04T07:00:26Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2025",
+  "author": "whot",
+  "comments": 1,
+  "reactions": 1,
+  "labels": [
+   "enhancement",
+   "generators"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2028,
+  "title": "When use gnome.gtkdoc, no devhelp2 is generated",
+  "createdAt": "2017-07-03T14:49:11Z",
+  "updatedAt": "2024-10-07T08:47:46Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2028",
+  "author": "yetist",
+  "comments": 3,
+  "reactions": 0,
+  "labels": [
+   "gnome"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2029,
+  "title": "error when program is not found is not useful",
+  "createdAt": "2017-07-03T15:07:16Z",
+  "updatedAt": "2017-07-04T06:55:13Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2029",
+  "author": "keszybz",
+  "comments": 2,
+  "reactions": 0,
+  "labels": [
+   "bug",
+   "help wanted"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2034,
+  "title": "gnome.gtkdoc doesn't honour the `dependencies:` keyword",
+  "createdAt": "2017-07-04T10:32:43Z",
+  "updatedAt": "2018-09-17T12:49:14Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2034",
+  "author": null,
+  "comments": 4,
+  "reactions": 0,
+  "labels": [
+   "enhancement",
+   "gnome"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2042,
+  "title": "Split documentation for simple users vs developers",
+  "createdAt": "2017-07-07T13:25:41Z",
+  "updatedAt": "2017-07-13T17:29:15Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2042",
+  "author": null,
+  "comments": 3,
+  "reactions": 2,
+  "labels": [
+   "documentation"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2054,
+  "title": "Include order wrong for subproject includes",
+  "createdAt": "2017-07-12T22:53:52Z",
+  "updatedAt": "2019-01-01T16:33:28Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2054",
+  "author": "ocrete",
+  "comments": 4,
+  "reactions": 0,
+  "labels": [
+   "bug",
+   "regression"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2058,
+  "title": "feature request: case statement in meson.build",
+  "createdAt": "2017-07-13T06:57:35Z",
+  "updatedAt": "2017-07-13T22:43:31Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2058",
+  "author": "hanetzer",
+  "comments": 0,
+  "reactions": 3,
+  "labels": [
+   "enhancement",
+   "parser/interpreter"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2062,
+  "title": "feature request: ability to apply string methods to '@INPUT@' and so on in generators.",
+  "createdAt": "2017-07-15T06:59:04Z",
+  "updatedAt": "2017-07-17T03:58:27Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2062",
+  "author": "hanetzer",
+  "comments": 1,
+  "reactions": 0,
+  "labels": [
+   "enhancement",
+   "generators"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2064,
+  "title": "Windows Isolated Applications and Side-by-side Assemblies",
+  "createdAt": "2017-07-15T10:37:57Z",
+  "updatedAt": "2024-02-06T22:20:29Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2064",
+  "author": "hanetzer",
+  "comments": 1,
+  "reactions": 2,
+  "labels": [
+   "enhancement",
+   "compilers",
+   "OS:windows"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2077,
+  "title": "build_machine.system() results incompatible with autotools for linux systems",
+  "createdAt": "2017-07-17T15:31:43Z",
+  "updatedAt": "2019-01-05T06:53:37Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2077",
+  "author": "zmike",
+  "comments": 13,
+  "reactions": 0,
+  "labels": [
+   "enhancement",
+   "compilers",
+   "mesa/wayland/xorg"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2081,
+  "title": "Emulate CMake's server mode to facilitate IDE integration",
+  "createdAt": "2017-07-18T08:29:10Z",
+  "updatedAt": "2017-10-12T14:44:06Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2081",
+  "author": "revinary",
+  "comments": 3,
+  "reactions": 3,
+  "labels": [
+   "enhancement"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2085,
+  "title": "AVX512 support in SIMD module?",
+  "createdAt": "2017-07-19T22:38:32Z",
+  "updatedAt": "2017-07-20T08:11:17Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2085",
+  "author": "oscarbg",
+  "comments": 0,
+  "reactions": 0,
+  "labels": [
+   "enhancement"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2098,
+  "title": "Improve error message while importing subproject",
+  "createdAt": "2017-07-21T13:45:26Z",
+  "updatedAt": "2017-10-20T19:31:30Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2098",
+  "author": "jeandet",
+  "comments": 1,
+  "reactions": 1,
+  "labels": [
+   "bug",
+   "help wanted",
+   "parser/interpreter"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2103,
+  "title": "Using a custom VAPI does not generate a -pkg foo flag",
+  "createdAt": "2017-07-22T07:38:43Z",
+  "updatedAt": "2023-12-06T11:55:54Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2103",
+  "author": "wblaszcz",
+  "comments": 6,
+  "reactions": 0,
+  "labels": [
+   "bug",
+   "gnome",
+   "language:vala"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2105,
+  "title": "Windows path definitions and shared libraries",
+  "createdAt": "2017-07-22T21:29:48Z",
+  "updatedAt": "2017-08-04T10:17:23Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2105",
+  "author": "nyorain",
+  "comments": 5,
+  "reactions": 0,
+  "labels": [
+   "enhancement",
+   "OS:windows"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2121,
+  "title": "Add an option to have @rpath install_name instead of an absolute path",
+  "createdAt": "2017-07-25T14:54:29Z",
+  "updatedAt": "2023-03-26T12:55:06Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2121",
+  "author": "SoapGentoo",
+  "comments": 18,
+  "reactions": 3,
+  "labels": [
+   "bug",
+   "compilers",
+   "OS:macos"
+  ],
+  "milestone": "meson-next"
+ },
+ {
+  "number": 2124,
+  "title": "Unable to specify multiple things using include_directories",
+  "createdAt": "2017-07-26T08:43:03Z",
+  "updatedAt": "2017-08-04T10:34:27Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2124",
+  "author": "hughsie",
+  "comments": 3,
+  "reactions": 0,
+  "labels": [
+   "bug",
+   "help wanted",
+   "parser/interpreter"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2128,
+  "title": "Using Anaconda Python and Qt module - Windows. Error with finding QT due to PATH",
+  "createdAt": "2017-07-27T05:11:43Z",
+  "updatedAt": "2018-02-19T00:32:00Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2128",
+  "author": "duncanmcn",
+  "comments": 4,
+  "reactions": 0,
+  "labels": [
+   "enhancement",
+   "OS:windows",
+   "dependencies",
+   "qt"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2132,
+  "title": "support WINDOWS_EXPORT_ALL_SYMBOLS like cmake",
+  "createdAt": "2017-07-28T20:39:06Z",
+  "updatedAt": "2025-02-03T17:29:55Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2132",
+  "author": "santagada",
+  "comments": 29,
+  "reactions": 11,
+  "labels": [
+   "enhancement",
+   "OS:windows",
+   "dynamic linkers"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2148,
+  "title": "gtkdoc rules do not depend on dependencies",
+  "createdAt": "2017-08-02T06:01:37Z",
+  "updatedAt": "2017-11-29T11:17:04Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2148",
+  "author": "QuLogic",
+  "comments": 1,
+  "reactions": 0,
+  "labels": [
+   "bug",
+   "gnome",
+   "dependencies"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2155,
+  "title": "Should de-duplicate -isystem flags just like -I flags",
+  "createdAt": "2017-08-03T19:44:52Z",
+  "updatedAt": "2026-04-05T08:01:12Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2155",
+  "author": "zajo",
+  "comments": 11,
+  "reactions": 0,
+  "labels": [
+   "bug",
+   "compilers"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2156,
+  "title": "Crazy idea: simpler library deduplication",
+  "createdAt": "2017-08-04T09:33:21Z",
+  "updatedAt": "2018-11-06T18:31:01Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2156",
+  "author": "jpakkane",
+  "comments": 4,
+  "reactions": 0,
+  "labels": [
+   "enhancement",
+   "compilers"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2164,
+  "title": "i18n support for man pages",
+  "createdAt": "2017-08-09T09:22:33Z",
+  "updatedAt": "2017-08-15T09:48:53Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2164",
+  "author": "bilelmoussaoui",
+  "comments": 6,
+  "reactions": 0,
+  "labels": [
+   "enhancement",
+   "module:i18n"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2173,
+  "title": "Rust: Support external crates",
+  "createdAt": "2017-08-11T12:52:00Z",
+  "updatedAt": "2026-06-23T17:22:19Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2173",
+  "author": "zeenix",
+  "comments": 65,
+  "reactions": 37,
+  "labels": [
+   "enhancement",
+   "language:rust",
+   "dependencies:cargo"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2186,
+  "title": "Make - and _ synonyms in project options and enforce a convention for option names",
+  "createdAt": "2017-08-13T22:28:22Z",
+  "updatedAt": "2025-02-03T16:46:30Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2186",
+  "author": "nirbheek",
+  "comments": 0,
+  "reactions": 2,
+  "labels": [
+   "enhancement",
+   "options"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2193,
+  "title": "Silently ignoring changes to default_options in project() is a bad user experience",
+  "createdAt": "2017-08-15T12:57:36Z",
+  "updatedAt": "2025-09-24T17:24:57Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2193",
+  "author": "nirbheek",
+  "comments": 29,
+  "reactions": 2,
+  "labels": [
+   "bug",
+   "options"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2209,
+  "title": "Provide a way to specify the debug library name to use in cc.find_library",
+  "createdAt": "2017-08-17T14:15:04Z",
+  "updatedAt": "2017-08-17T14:15:12Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2209",
+  "author": "nirbheek",
+  "comments": 0,
+  "reactions": 0,
+  "labels": [
+   "enhancement",
+   "compilers",
+   "help wanted",
+   "OS:windows",
+   "dependencies"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2210,
+  "title": "Provide a way to specify fallback library names to search if a dependency is not found",
+  "createdAt": "2017-08-17T14:30:41Z",
+  "updatedAt": "2017-08-31T09:03:20Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2210",
+  "author": "nirbheek",
+  "comments": 2,
+  "reactions": 0,
+  "labels": [
+   "enhancement",
+   "dependencies"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2219,
+  "title": "gnome.compile_schemas() only considers schemas in srcdir",
+  "createdAt": "2017-08-19T10:14:13Z",
+  "updatedAt": "2024-07-10T19:36:44Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2219",
+  "author": "fmuellner",
+  "comments": 7,
+  "reactions": 0,
+  "labels": [
+   "gnome"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2225,
+  "title": "debug symbols link to wrong path when source directory is a symlink",
+  "createdAt": "2017-08-21T03:23:31Z",
+  "updatedAt": "2018-02-14T18:25:57Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2225",
+  "author": "pksadiq",
+  "comments": 2,
+  "reactions": 0,
+  "labels": [
+   "compilers"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2232,
+  "title": "meson does not process po/POTFILES.skip file",
+  "createdAt": "2017-08-22T08:34:10Z",
+  "updatedAt": "2019-02-07T21:58:01Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2232",
+  "author": "igor-raits",
+  "comments": 12,
+  "reactions": 0,
+  "labels": [
+   "module:i18n"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2240,
+  "title": "vcs_tag() error output should be silenced if fallback is specified",
+  "createdAt": "2017-08-23T12:39:19Z",
+  "updatedAt": "2020-11-14T14:37:29Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2240",
+  "author": "mqudsi",
+  "comments": 12,
+  "reactions": 0,
+  "labels": [
+   "bug",
+   "help wanted"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2253,
+  "title": "pkgconfig: do not generate libdir entry in pkg-config file when no libraries are requested",
+  "createdAt": "2017-08-28T10:02:16Z",
+  "updatedAt": "2025-03-26T14:07:43Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2253",
+  "author": "igor-raits",
+  "comments": 2,
+  "reactions": 0,
+  "labels": [
+   "bug",
+   "gnome",
+   "help wanted",
+   "generators"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2254,
+  "title": "pkgconfig: implement install keyword",
+  "createdAt": "2017-08-28T10:03:31Z",
+  "updatedAt": "2021-10-03T19:00:12Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2254",
+  "author": "igor-raits",
+  "comments": 1,
+  "reactions": 0,
+  "labels": [
+   "enhancement",
+   "gnome",
+   "help wanted",
+   "generators",
+   "install targets"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2265,
+  "title": "Add modules to the sdl dependency class, e.g.: image, mixer, net, etc.",
+  "createdAt": "2017-08-31T10:24:48Z",
+  "updatedAt": "2020-11-12T13:50:55Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2265",
+  "author": "nirbheek",
+  "comments": 5,
+  "reactions": 0,
+  "labels": [
+   "enhancement",
+   "help wanted",
+   "dependencies"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2271,
+  "title": "Use a generated file as main file in gtkdoc",
+  "createdAt": "2017-09-01T21:18:45Z",
+  "updatedAt": "2017-09-04T11:39:18Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2271",
+  "author": "inigomartinez",
+  "comments": 0,
+  "reactions": 0,
+  "labels": [
+   "enhancement",
+   "gnome",
+   "generators"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2292,
+  "title": "Dependency checks should automatically offer to install the necessary -dev packages",
+  "createdAt": "2017-09-07T19:20:34Z",
+  "updatedAt": "2025-08-08T19:13:33Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2292",
+  "author": "nirbheek",
+  "comments": 14,
+  "reactions": 1,
+  "labels": [
+   "enhancement",
+   "help wanted",
+   "dependencies"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2293,
+  "title": "Speed up C library function checks by fetching a list of all exported functions",
+  "createdAt": "2017-09-07T19:34:19Z",
+  "updatedAt": "2017-09-07T19:46:27Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2293",
+  "author": "nirbheek",
+  "comments": 1,
+  "reactions": 0,
+  "labels": [
+   "enhancement",
+   "compilers",
+   "perf"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2295,
+  "title": "Add a build_machine.build_id() and build_machine.build_date()",
+  "createdAt": "2017-09-07T22:50:13Z",
+  "updatedAt": "2017-09-12T08:41:44Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2295",
+  "author": "esodan",
+  "comments": 0,
+  "reactions": 0,
+  "labels": [
+   "enhancement",
+   "help wanted",
+   "OS:windows"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2303,
+  "title": "'cpp_args' put in front when put in cross compilation file",
+  "createdAt": "2017-09-10T19:09:51Z",
+  "updatedAt": "2017-10-15T07:39:34Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2303",
+  "author": "FSMaxB",
+  "comments": 4,
+  "reactions": 0,
+  "labels": [
+   "bug",
+   "compilers",
+   "cross"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2329,
+  "title": "Report the reason for failure of install script",
+  "createdAt": "2017-09-16T12:40:01Z",
+  "updatedAt": "2022-08-22T22:30:25Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2329",
+  "author": "jtojnar",
+  "comments": 4,
+  "reactions": 1,
+  "labels": [
+   "bug",
+   "help wanted"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2347,
+  "title": "[Doc] Autogenerated exhaustive doc ; list of invalid variable names",
+  "createdAt": "2017-09-20T08:23:27Z",
+  "updatedAt": "2017-09-20T08:39:06Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2347",
+  "author": "Salamandar",
+  "comments": 1,
+  "reactions": 0,
+  "labels": [
+   "enhancement",
+   "documentation"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2370,
+  "title": "Warning color is unreadable on white background",
+  "createdAt": "2017-09-24T10:54:13Z",
+  "updatedAt": "2017-09-29T17:34:37Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2370",
+  "author": "adrianjohnson",
+  "comments": 3,
+  "reactions": 0,
+  "labels": [
+   "bug",
+   "help wanted"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2388,
+  "title": "Conditional options",
+  "createdAt": "2017-09-29T12:08:24Z",
+  "updatedAt": "2024-04-06T12:15:09Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2388",
+  "author": "z33ky",
+  "comments": 10,
+  "reactions": 0,
+  "labels": [
+   "enhancement",
+   "options"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2399,
+  "title": "Provide a get gir version method for gnome module",
+  "createdAt": "2017-09-30T22:55:18Z",
+  "updatedAt": "2017-10-01T07:41:24Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2399",
+  "author": "adrianjohnson",
+  "comments": 0,
+  "reactions": 1,
+  "labels": [
+   "enhancement",
+   "gnome"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2406,
+  "title": "gnome.gtkdoc() - add option of pdf output",
+  "createdAt": "2017-10-01T00:21:14Z",
+  "updatedAt": "2017-10-01T06:08:07Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2406",
+  "author": "adrianjohnson",
+  "comments": 0,
+  "reactions": 1,
+  "labels": [
+   "enhancement",
+   "gnome"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2409,
+  "title": "Document `ninja reconfigure` in the online documentation",
+  "createdAt": "2017-10-01T04:24:13Z",
+  "updatedAt": "2018-04-02T21:35:38Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2409",
+  "author": "adrianjohnson",
+  "comments": 4,
+  "reactions": 0,
+  "labels": [
+   "help wanted",
+   "documentation"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2416,
+  "title": "Install generated files into multiple directories",
+  "createdAt": "2017-10-03T06:59:32Z",
+  "updatedAt": "2018-03-09T01:52:44Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2416",
+  "author": "inigomartinez",
+  "comments": 5,
+  "reactions": 0,
+  "labels": [
+   "enhancement",
+   "help wanted",
+   "generators",
+   "good first issue",
+   "install targets"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2424,
+  "title": "Relocatable build directory",
+  "createdAt": "2017-10-04T13:26:46Z",
+  "updatedAt": "2019-02-26T18:05:40Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2424",
+  "author": "gauteh",
+  "comments": 3,
+  "reactions": 1,
+  "labels": [
+   "enhancement"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2425,
+  "title": "--wrap-mode ignores git submodules",
+  "createdAt": "2017-10-04T16:27:42Z",
+  "updatedAt": "2022-02-22T13:26:23Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2425",
+  "author": "dvdhrm",
+  "comments": 1,
+  "reactions": 0,
+  "labels": [
+   "bug",
+   "subprojects/wraps"
+  ],
+  "milestone": "meson-next"
+ },
+ {
+  "number": 2436,
+  "title": "boost log on mac os x is not using -mt variant",
+  "createdAt": "2017-10-06T10:11:46Z",
+  "updatedAt": "2018-02-12T15:03:34Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2436",
+  "author": "gauteh",
+  "comments": 10,
+  "reactions": 0,
+  "labels": [
+   "enhancement",
+   "OS:macos",
+   "dependencies",
+   "boost"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2467,
+  "title": "Allow setting name_prefix project-wide",
+  "createdAt": "2017-10-10T12:08:15Z",
+  "updatedAt": "2017-11-29T07:31:10Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2467",
+  "author": "MathieuDuponchelle",
+  "comments": 1,
+  "reactions": 0,
+  "labels": [
+   "enhancement",
+   "help wanted"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2470,
+  "title": "TUI to configure Meson (akin to `ccmake`)",
+  "createdAt": "2017-10-10T17:22:18Z",
+  "updatedAt": "2023-01-06T19:54:05Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2470",
+  "author": "1ace",
+  "comments": 13,
+  "reactions": 4,
+  "labels": [
+   "enhancement",
+   "help wanted"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2475,
+  "title": "ninja build or ninja reconfigure does not detect dependency changes",
+  "createdAt": "2017-10-11T07:49:31Z",
+  "updatedAt": "2017-11-29T07:26:09Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2475",
+  "author": "gauteh",
+  "comments": 1,
+  "reactions": 0,
+  "labels": [
+   "bug",
+   "help wanted",
+   "dependencies"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2486,
+  "title": "Add meson option to force color output when output is not tty",
+  "createdAt": "2017-10-12T08:36:14Z",
+  "updatedAt": "2026-06-24T04:32:05Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2486",
+  "author": "gkrithi8",
+  "comments": 3,
+  "reactions": 9,
+  "labels": [
+   "enhancement",
+   "help wanted"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2519,
+  "title": "compiler.run() current working directory and cleanup",
+  "createdAt": "2017-10-22T17:44:04Z",
+  "updatedAt": "2017-11-29T07:12:44Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2519",
+  "author": "jnikula",
+  "comments": 2,
+  "reactions": 0,
+  "labels": [
+   "bug",
+   "compilers",
+   "help wanted"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2546,
+  "title": "install_headers() should install headers into intermediates directory, too",
+  "createdAt": "2017-10-27T16:58:19Z",
+  "updatedAt": "2024-10-30T15:50:18Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2546",
+  "author": "liugang",
+  "comments": 10,
+  "reactions": 0,
+  "labels": [
+   "enhancement",
+   "install targets"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2560,
+  "title": "Compiler detection is incorrect for native LLVM/Clang install on Windows",
+  "createdAt": "2017-10-30T18:33:20Z",
+  "updatedAt": "2018-11-17T10:41:52Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2560",
+  "author": "MarkIngramUK",
+  "comments": 9,
+  "reactions": 2,
+  "labels": [
+   "compilers",
+   "help wanted",
+   "OS:windows"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2563,
+  "title": "qt.preprocess: Output warning if a .cpp / .cc file is passed as `moc_headers` instead of 'moc_sources`.",
+  "createdAt": "2017-11-01T13:16:06Z",
+  "updatedAt": "2018-06-03T21:30:36Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2563",
+  "author": "textshell",
+  "comments": 0,
+  "reactions": 0,
+  "labels": [
+   "enhancement",
+   "qt"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2585,
+  "title": "gnome.gtkdoc()'s ignore_headers doesn't take file objects",
+  "createdAt": "2017-11-06T04:35:26Z",
+  "updatedAt": "2017-11-06T04:35:26Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2585",
+  "author": "TingPing",
+  "comments": 0,
+  "reactions": 0,
+  "labels": [
+   "gnome",
+   "help wanted"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2588,
+  "title": "gtkdoc html_assets does not allow overwriting gtkdoc-mkhtml assets",
+  "createdAt": "2017-11-07T00:47:35Z",
+  "updatedAt": "2017-11-07T00:59:35Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2588",
+  "author": "chergert",
+  "comments": 2,
+  "reactions": 0,
+  "labels": [
+   "gnome"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2592,
+  "title": "Add warning for unused variable option in meson.build files",
+  "createdAt": "2017-11-07T22:43:13Z",
+  "updatedAt": "2017-11-29T06:32:59Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2592",
+  "author": "chergert",
+  "comments": 0,
+  "reactions": 1,
+  "labels": [
+   "enhancement",
+   "parser/interpreter"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2600,
+  "title": "Allow multiple commands/replace_strings in vcs_tag",
+  "createdAt": "2017-11-09T10:03:23Z",
+  "updatedAt": "2024-02-19T12:33:14Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2600",
+  "author": "Salamandar",
+  "comments": 3,
+  "reactions": 0,
+  "labels": [
+   "enhancement"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2605,
+  "title": "has_function fails to find strcpy_s on mingw",
+  "createdAt": "2017-11-11T04:20:02Z",
+  "updatedAt": "2025-02-14T21:27:35Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2605",
+  "author": "adrianjohnson",
+  "comments": 3,
+  "reactions": 0,
+  "labels": [
+   "documentation",
+   "language:c++"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2607,
+  "title": "Differentiate global variables from local variables",
+  "createdAt": "2017-11-11T13:32:25Z",
+  "updatedAt": "2024-11-27T22:26:17Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2607",
+  "author": null,
+  "comments": 59,
+  "reactions": 30,
+  "labels": [
+   "enhancement"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2608,
+  "title": "Recommend a standard coding style for meson.build files",
+  "createdAt": "2017-11-11T14:06:26Z",
+  "updatedAt": "2025-02-03T16:43:12Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2608",
+  "author": null,
+  "comments": 8,
+  "reactions": 5,
+  "labels": [
+   "enhancement",
+   "help wanted",
+   "documentation"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2609,
+  "title": "Have the equivalent of AX_COMPILER_FLAGS from Autotools",
+  "createdAt": "2017-11-11T14:13:22Z",
+  "updatedAt": "2020-11-13T15:21:31Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2609",
+  "author": null,
+  "comments": 13,
+  "reactions": 0,
+  "labels": [
+   "enhancement",
+   "compilers",
+   "help wanted"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2621,
+  "title": "i18n.merge_file does not generate a dependency on the .po files",
+  "createdAt": "2017-11-13T20:53:12Z",
+  "updatedAt": "2018-09-19T09:21:58Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2621",
+  "author": "keszybz",
+  "comments": 1,
+  "reactions": 0,
+  "labels": [
+   "bug",
+   "module:i18n"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2634,
+  "title": "Allow targets with same name *but different subdirs*",
+  "createdAt": "2017-11-16T15:54:05Z",
+  "updatedAt": "2017-11-29T06:13:39Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2634",
+  "author": "Salamandar",
+  "comments": 1,
+  "reactions": 0,
+  "labels": [
+   "enhancement",
+   "generators"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2642,
+  "title": "Handling users doing stupid things with CFLAGS (and friends)",
+  "createdAt": "2017-11-17T21:51:31Z",
+  "updatedAt": "2017-11-30T00:43:54Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2642",
+  "author": "dcbaker",
+  "comments": 2,
+  "reactions": 0,
+  "labels": [
+   "bug",
+   "compilers"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2643,
+  "title": "dependency() can yield incorrectly cached dependencies on regen if the actual dependency went away",
+  "createdAt": "2017-11-17T23:40:12Z",
+  "updatedAt": "2017-12-06T17:13:17Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2643",
+  "author": "agners",
+  "comments": 19,
+  "reactions": 0,
+  "labels": [
+   "bug",
+   "regression",
+   "dependencies"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2657,
+  "title": "Cannot pass targets to generator( ) arguments",
+  "createdAt": "2017-11-20T09:32:00Z",
+  "updatedAt": "2026-04-05T08:01:01Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2657",
+  "author": "lamefun",
+  "comments": 2,
+  "reactions": 0,
+  "labels": [
+   "enhancement",
+   "help wanted",
+   "generators"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2660,
+  "title": "Cross-compiled Qt program doesn't start — missing windows plugin",
+  "createdAt": "2017-11-20T14:08:20Z",
+  "updatedAt": "2020-07-03T07:38:58Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2660",
+  "author": "rkfg",
+  "comments": 16,
+  "reactions": 0,
+  "labels": [
+   "bug",
+   "cross",
+   "dependencies",
+   "qt"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2664,
+  "title": "gnome module doesn't give a clear error on missing gobject-introspection-1.0.pc files",
+  "createdAt": "2017-11-20T23:02:11Z",
+  "updatedAt": "2017-11-29T05:28:58Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2664",
+  "author": "ocrete",
+  "comments": 0,
+  "reactions": 2,
+  "labels": [
+   "bug",
+   "gnome",
+   "help wanted"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2666,
+  "title": "add write_file() method",
+  "createdAt": "2017-11-21T10:23:51Z",
+  "updatedAt": "2018-01-25T14:42:47Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2666",
+  "author": "Salamandar",
+  "comments": 3,
+  "reactions": 1,
+  "labels": [
+   "enhancement"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2669,
+  "title": "Keeps some track of where every value comes from",
+  "createdAt": "2017-11-22T06:57:01Z",
+  "updatedAt": "2017-11-29T05:31:06Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2669",
+  "author": "lamefun",
+  "comments": 0,
+  "reactions": 0,
+  "labels": [
+   "enhancement",
+   "parser/interpreter"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2687,
+  "title": "meson.build configuration file syntax test",
+  "createdAt": "2017-11-25T12:54:50Z",
+  "updatedAt": "2026-02-27T12:17:38Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2687",
+  "author": "juergenhoetzel",
+  "comments": 3,
+  "reactions": 1,
+  "labels": [
+   "enhancement",
+   "help wanted",
+   "good first issue"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2722,
+  "title": "Multiple commands in run_target",
+  "createdAt": "2017-12-01T12:37:43Z",
+  "updatedAt": "2017-12-01T14:29:42Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2722",
+  "author": "Salamandar",
+  "comments": 0,
+  "reactions": 1,
+  "labels": [
+   "enhancement"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2728,
+  "title": "[mingw-w64] PC files with full C: path included",
+  "createdAt": "2017-12-01T21:31:23Z",
+  "updatedAt": "2026-02-27T12:39:23Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2728",
+  "author": "esodan",
+  "comments": 3,
+  "reactions": 0,
+  "labels": [
+   "OS:windows",
+   "module:pkgconfig"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2729,
+  "title": "[mingw-w64] Add a FAQ or How-To to create mingw-w64 pacman packages",
+  "createdAt": "2017-12-01T21:33:29Z",
+  "updatedAt": "2017-12-12T19:52:11Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2729",
+  "author": "esodan",
+  "comments": 0,
+  "reactions": 1,
+  "labels": [
+   "documentation",
+   "good first issue"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2742,
+  "title": "Warn when build files use `object.path()` in places where `object` should be used",
+  "createdAt": "2017-12-06T20:35:49Z",
+  "updatedAt": "2017-12-07T20:18:58Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2742",
+  "author": "behlec",
+  "comments": 2,
+  "reactions": 0,
+  "labels": [
+   "enhancement",
+   "help wanted",
+   "parser/interpreter"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2765,
+  "title": "Don't want platform libraries to be included when linking statically to a dependency",
+  "createdAt": "2017-12-11T22:20:36Z",
+  "updatedAt": "2018-09-27T00:36:29Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2765",
+  "author": "ocrete",
+  "comments": 11,
+  "reactions": 0,
+  "labels": [
+   "enhancement",
+   "gstreamer",
+   "dependencies"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2818,
+  "title": "Document how to run the project tests, the unit tests, and both together",
+  "createdAt": "2017-12-22T00:44:50Z",
+  "updatedAt": "2025-11-02T20:22:44Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2818",
+  "author": "nirbheek",
+  "comments": 2,
+  "reactions": 0,
+  "labels": [
+   "help wanted",
+   "documentation",
+   "good first issue",
+   "meson tests",
+   "CI"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2831,
+  "title": "Target deps are not correctly added for content_files in gnome.gtk-doc",
+  "createdAt": "2017-12-26T12:24:59Z",
+  "updatedAt": "2018-01-04T21:56:58Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2831",
+  "author": "nirbheek",
+  "comments": 11,
+  "reactions": 0,
+  "labels": [
+   "gnome",
+   "help wanted",
+   "generators",
+   "dependencies"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2835,
+  "title": "Feature: MKL dependency",
+  "createdAt": "2017-12-27T18:20:38Z",
+  "updatedAt": "2023-12-28T19:19:53Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2835",
+  "author": "alyst",
+  "comments": 21,
+  "reactions": 5,
+  "labels": [
+   "enhancement",
+   "compilers",
+   "help wanted",
+   "dependencies"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2875,
+  "title": "Allow different defaults for options based on OS and arch",
+  "createdAt": "2018-01-04T18:25:03Z",
+  "updatedAt": "2018-07-25T01:56:57Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2875",
+  "author": "dcbaker",
+  "comments": 3,
+  "reactions": 0,
+  "labels": [
+   "enhancement",
+   "gstreamer",
+   "mesa/wayland/xorg"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2881,
+  "title": "Meson doesn't set LD_LIBRARY_PATH when executables in builddir are used to run custom_target",
+  "createdAt": "2018-01-05T18:48:35Z",
+  "updatedAt": "2025-03-27T02:12:06Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2881",
+  "author": "lantw44",
+  "comments": 9,
+  "reactions": 0,
+  "labels": [
+   "bug",
+   "compilers",
+   "help wanted",
+   "generators",
+   "OS:*BSD"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2896,
+  "title": "pkgconfig generator should automatically populate requires/requires_private from dependency() objects",
+  "createdAt": "2018-01-08T12:21:37Z",
+  "updatedAt": "2024-11-24T04:26:26Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2896",
+  "author": "igor-raits",
+  "comments": 10,
+  "reactions": 0,
+  "labels": [
+   "enhancement",
+   "help wanted",
+   "generators",
+   "good first issue"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2897,
+  "title": "pkgconfig.generate() -> declare_dependency()",
+  "createdAt": "2018-01-08T12:25:35Z",
+  "updatedAt": "2023-05-29T03:50:15Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2897",
+  "author": "igor-raits",
+  "comments": 1,
+  "reactions": 0,
+  "labels": [
+   "enhancement",
+   "gnome",
+   "module:pkgconfig"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2900,
+  "title": "Allow debugging internal commands",
+  "createdAt": "2018-01-08T13:26:16Z",
+  "updatedAt": "2018-02-09T13:28:01Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2900",
+  "author": "Salamandar",
+  "comments": 0,
+  "reactions": 4,
+  "labels": [
+   "enhancement",
+   "gnome",
+   "help wanted",
+   "good first issue"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2909,
+  "title": "Avoid copying files in gtkdoc documentation generation",
+  "createdAt": "2018-01-11T22:03:53Z",
+  "updatedAt": "2018-03-06T14:30:59Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2909",
+  "author": "inigomartinez",
+  "comments": 4,
+  "reactions": 0,
+  "labels": [
+   "bug",
+   "gnome",
+   "generators"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2922,
+  "title": "State corruption with multiple tasks running on same directory",
+  "createdAt": "2018-01-14T20:57:28Z",
+  "updatedAt": "2026-06-22T08:24:45Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2922",
+  "author": "imirkin",
+  "comments": 3,
+  "reactions": 0,
+  "labels": [
+   "bug",
+   "help wanted",
+   "good first issue"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2945,
+  "title": "compiler.find_library() fallback inside dependency()",
+  "createdAt": "2018-01-18T04:05:31Z",
+  "updatedAt": "2026-02-27T12:37:46Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2945",
+  "author": "roshbaby",
+  "comments": 23,
+  "reactions": 4,
+  "labels": [
+   "enhancement",
+   "dependencies",
+   "design discussion"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2953,
+  "title": "coverage targets ?",
+  "createdAt": "2018-01-19T16:07:31Z",
+  "updatedAt": "2018-02-09T15:34:25Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2953",
+  "author": "Salamandar",
+  "comments": 0,
+  "reactions": 0,
+  "labels": [
+   "bug",
+   "help wanted",
+   "good first issue"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2957,
+  "title": "Best way to handle post-build commands?",
+  "createdAt": "2018-01-20T13:05:12Z",
+  "updatedAt": "2024-06-02T15:19:28Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2957",
+  "author": "jibsen",
+  "comments": 5,
+  "reactions": 1,
+  "labels": [
+   "enhancement",
+   "OS:windows"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2960,
+  "title": "Generated files not regenerated when the generator changes",
+  "createdAt": "2018-01-22T14:49:34Z",
+  "updatedAt": "2018-02-12T15:24:57Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2960",
+  "author": "djdeath",
+  "comments": 12,
+  "reactions": 0,
+  "labels": [
+   "bug",
+   "help wanted",
+   "generators"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2962,
+  "title": "Building a static library with msvc needs linker options sometimes",
+  "createdAt": "2018-01-22T18:45:58Z",
+  "updatedAt": "2018-02-09T16:37:50Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2962",
+  "author": "jda-iocom",
+  "comments": 1,
+  "reactions": 0,
+  "labels": [
+   "enhancement",
+   "compilers",
+   "OS:windows"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2969,
+  "title": "Add subdir argument to gnome.mkenums_simple() to match install_headers()",
+  "createdAt": "2018-01-24T12:18:31Z",
+  "updatedAt": "2018-02-09T15:46:43Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2969",
+  "author": "pwithnall",
+  "comments": 0,
+  "reactions": 0,
+  "labels": [
+   "enhancement",
+   "gnome",
+   "help wanted",
+   "good first issue"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2978,
+  "title": "`configure_file()` needs an option to verify all `configuration_data()` has been consumed",
+  "createdAt": "2018-01-26T06:04:45Z",
+  "updatedAt": "2018-02-12T14:36:37Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2978",
+  "author": "krader1961",
+  "comments": 4,
+  "reactions": 0,
+  "labels": [
+   "enhancement",
+   "help wanted",
+   "generators",
+   "good first issue"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2991,
+  "title": "Tell meson to not search for CCache",
+  "createdAt": "2018-01-29T17:00:52Z",
+  "updatedAt": "2024-12-19T22:50:29Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2991",
+  "author": "Salamandar",
+  "comments": 15,
+  "reactions": 2,
+  "labels": [
+   "enhancement",
+   "compilers"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2993,
+  "title": "xcode-backend-generated Xcode project has no header search paths",
+  "createdAt": "2018-01-30T00:41:31Z",
+  "updatedAt": "2021-02-19T17:07:49Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2993",
+  "author": "kirushyk",
+  "comments": 3,
+  "reactions": 0,
+  "labels": [
+   "bug",
+   "OS:macos",
+   "backend:xcode"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 2998,
+  "title": "Limitations on customizing the install target",
+  "createdAt": "2018-01-30T23:08:06Z",
+  "updatedAt": "2021-08-28T14:33:21Z",
+  "url": "https://github.com/mesonbuild/meson/issues/2998",
+  "author": "rib",
+  "comments": 10,
+  "reactions": 0,
+  "labels": [
+   "enhancement",
+   "android"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 3001,
+  "title": "Generic overrider functionality",
+  "createdAt": "2018-01-31T20:15:34Z",
+  "updatedAt": "2020-02-04T17:10:08Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3001",
+  "author": "jpakkane",
+  "comments": 9,
+  "reactions": 12,
+  "labels": [
+   "enhancement",
+   "help wanted",
+   "parser/interpreter"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 3005,
+  "title": "exclude_files as a regex for install_subdir ?",
+  "createdAt": "2018-02-02T09:27:33Z",
+  "updatedAt": "2020-02-01T01:07:33Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3005",
+  "author": "Salamandar",
+  "comments": 1,
+  "reactions": 3,
+  "labels": [
+   "enhancement"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 3023,
+  "title": "jar() can't deal with generate source code under the build directory",
+  "createdAt": "2018-02-07T16:42:01Z",
+  "updatedAt": "2018-02-11T14:01:19Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3023",
+  "author": "rib",
+  "comments": 2,
+  "reactions": 0,
+  "labels": [
+   "bug",
+   "compilers",
+   "generators",
+   "language:java"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 3046,
+  "title": "Uniform way to link whole libraries",
+  "createdAt": "2018-02-12T03:09:58Z",
+  "updatedAt": "2021-07-22T21:29:12Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3046",
+  "author": "sarum9in",
+  "comments": 11,
+  "reactions": 3,
+  "labels": [
+   "enhancement",
+   "compilers",
+   "help wanted",
+   "dependencies"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 3047,
+  "title": "Meson needs native understanding of symbol version scripts",
+  "createdAt": "2018-02-12T10:49:27Z",
+  "updatedAt": "2023-09-25T19:56:43Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3047",
+  "author": "hughsie",
+  "comments": 29,
+  "reactions": 16,
+  "labels": [
+   "enhancement",
+   "compilers",
+   "help wanted"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 3049,
+  "title": "-D_FILE_OFFSET_BITS=64 should be disabled on some buggy 32-bit platforms",
+  "createdAt": "2018-02-12T14:58:58Z",
+  "updatedAt": "2022-12-16T01:15:26Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3049",
+  "author": "nirbheek",
+  "comments": 7,
+  "reactions": 0,
+  "labels": [
+   "bug",
+   "compilers",
+   "cross",
+   "help wanted",
+   "OS:windows",
+   "good first issue",
+   "android"
+  ],
+  "milestone": "meson-next"
+ },
+ {
+  "number": 3059,
+  "title": "Libraries built with lto and meson/ninja are larger than with configure/make",
+  "createdAt": "2018-02-13T06:09:08Z",
+  "updatedAt": "2024-01-14T19:20:02Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3059",
+  "author": "juanitotc",
+  "comments": 17,
+  "reactions": 0,
+  "labels": [
+   "compilers",
+   "help wanted",
+   "good first issue"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 3070,
+  "title": "Java: add support to use custom manifest for files.",
+  "createdAt": "2018-02-14T22:23:23Z",
+  "updatedAt": "2018-02-18T13:22:06Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3070",
+  "author": "rilian-la-te",
+  "comments": 0,
+  "reactions": 0,
+  "labels": [
+   "enhancement",
+   "help wanted",
+   "language:java"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 3073,
+  "title": "Missing dependency between gir file and sources scanned for gir data.",
+  "createdAt": "2018-02-15T19:18:02Z",
+  "updatedAt": "2018-02-18T13:25:28Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3073",
+  "author": null,
+  "comments": 1,
+  "reactions": 0,
+  "labels": [
+   "bug",
+   "gnome",
+   "help wanted",
+   "good first issue"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 3080,
+  "title": "Symbolextractor fails when run on non utf8 locale",
+  "createdAt": "2018-02-17T07:56:06Z",
+  "updatedAt": "2018-02-19T13:24:40Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3080",
+  "author": "juanitotc",
+  "comments": 5,
+  "reactions": 0,
+  "labels": [
+   "bug",
+   "help wanted",
+   "good first issue"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 3082,
+  "title": "Boost static detection is broken",
+  "createdAt": "2018-02-18T01:10:57Z",
+  "updatedAt": "2018-02-21T22:20:53Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3082",
+  "author": "sarum9in",
+  "comments": 22,
+  "reactions": 1,
+  "labels": [
+   "boost"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 3083,
+  "title": "Boost dependency should set -DBOOST_ALL_DYN_LINK",
+  "createdAt": "2018-02-18T01:23:11Z",
+  "updatedAt": "2019-07-15T15:15:33Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3083",
+  "author": "sarum9in",
+  "comments": 3,
+  "reactions": 2,
+  "labels": [
+   "boost"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 3084,
+  "title": "dependency() static keyword is not handled according to documentation",
+  "createdAt": "2018-02-18T01:38:27Z",
+  "updatedAt": "2018-02-19T22:54:10Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3084",
+  "author": "sarum9in",
+  "comments": 6,
+  "reactions": 2,
+  "labels": [
+   "bug",
+   "dependencies"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 3111,
+  "title": "Dependency Handling Whiteboard",
+  "createdAt": "2018-02-20T20:23:43Z",
+  "updatedAt": "2020-03-02T03:51:19Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3111",
+  "author": "textshell",
+  "comments": 9,
+  "reactions": 1,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 3129,
+  "title": "meson i18n module fails to merge desktop file on gettext < 0.19.0",
+  "createdAt": "2018-02-24T01:36:14Z",
+  "updatedAt": "2022-08-30T01:42:49Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3129",
+  "author": "infirit",
+  "comments": 2,
+  "reactions": 0,
+  "labels": [
+   "module:i18n"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 3174,
+  "title": "How to create output name which removes a prefix string?",
+  "createdAt": "2018-03-04T08:12:26Z",
+  "updatedAt": "2018-03-11T22:02:27Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3174",
+  "author": "mithro",
+  "comments": 4,
+  "reactions": 0,
+  "labels": [
+   "enhancement",
+   "generators"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 3183,
+  "title": "Linking C++ executable with Objective-C dynamic library fails ",
+  "createdAt": "2018-03-05T20:38:29Z",
+  "updatedAt": "2018-03-11T19:53:23Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3183",
+  "author": "urdh",
+  "comments": 2,
+  "reactions": 0,
+  "labels": [
+   "bug",
+   "compilers"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 3187,
+  "title": "Suggest to export symbols if linking with shared_library and *.lib is not found",
+  "createdAt": "2018-03-06T01:38:09Z",
+  "updatedAt": "2018-03-06T12:36:58Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3187",
+  "author": "sarum9in",
+  "comments": 2,
+  "reactions": 0,
+  "labels": [
+   "enhancement",
+   "OS:windows"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 3202,
+  "title": "Expose way to set Windows Sdk",
+  "createdAt": "2018-03-08T23:00:48Z",
+  "updatedAt": "2025-03-12T17:47:32Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3202",
+  "author": "TingPing",
+  "comments": 4,
+  "reactions": 1,
+  "labels": [
+   "OS:windows"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 3206,
+  "title": "Design proposal: install files created by generator.process()",
+  "createdAt": "2018-03-09T02:27:29Z",
+  "updatedAt": "2025-05-08T12:34:34Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3206",
+  "author": "sarum9in",
+  "comments": 20,
+  "reactions": 10,
+  "labels": [
+   "enhancement",
+   "generators",
+   "install targets"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 3226,
+  "title": "Dump a configuration_data() as a list of `-Dfoo=\"bar\"` -style defines",
+  "createdAt": "2018-03-12T17:21:53Z",
+  "updatedAt": "2026-05-09T21:05:32Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3226",
+  "author": "1ace",
+  "comments": 5,
+  "reactions": 0,
+  "labels": [
+   "enhancement"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 3245,
+  "title": "Missing module symbols in when running executables built with shared lib with plugin modules",
+  "createdAt": "2018-03-15T17:57:29Z",
+  "updatedAt": "2018-03-15T17:57:29Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3245",
+  "author": "jtm94",
+  "comments": 0,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 3266,
+  "title": "llvm: fallback to static if dynamic linking is not possible",
+  "createdAt": "2018-03-20T09:53:34Z",
+  "updatedAt": "2018-08-31T19:39:56Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3266",
+  "author": "Keruspe",
+  "comments": 11,
+  "reactions": 3,
+  "labels": [
+   "enhancement",
+   "dependencies"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 3276,
+  "title": "Ninja install fails when trying to restore SELinux security context",
+  "createdAt": "2018-03-21T08:48:57Z",
+  "updatedAt": "2019-04-14T23:59:25Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3276",
+  "author": null,
+  "comments": 2,
+  "reactions": 2,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 3295,
+  "title": "Can't declare intra-project build order dependencies between jars",
+  "createdAt": "2018-03-22T19:36:22Z",
+  "updatedAt": "2018-03-22T19:36:22Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3295",
+  "author": "smammy",
+  "comments": 0,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 3305,
+  "title": "No way to do a warnings-as-errors compiler test",
+  "createdAt": "2018-03-23T18:37:30Z",
+  "updatedAt": "2025-03-26T20:06:08Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3305",
+  "author": "LRN",
+  "comments": 0,
+  "reactions": 0,
+  "labels": [
+   "enhancement",
+   "compilers"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 3317,
+  "title": "Crash when using a file generated by configure_file as a content_file for gnome.gtkdoc",
+  "createdAt": "2018-03-25T17:50:41Z",
+  "updatedAt": "2018-04-10T07:02:13Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3317",
+  "author": "abderrahim",
+  "comments": 3,
+  "reactions": 0,
+  "labels": [
+   "bug",
+   "gnome",
+   "gstreamer",
+   "regression"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 3323,
+  "title": "Add a kwarg to test() targets that resets timeout on test output",
+  "createdAt": "2018-03-26T13:42:21Z",
+  "updatedAt": "2018-03-27T07:20:11Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3323",
+  "author": "nirbheek",
+  "comments": 0,
+  "reactions": 3,
+  "labels": [
+   "enhancement",
+   "gnome",
+   "test targets"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 3324,
+  "title": "Using generated files as qt resources fails with VS backend",
+  "createdAt": "2018-03-26T13:43:04Z",
+  "updatedAt": "2018-05-15T10:23:00Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3324",
+  "author": "dndanik",
+  "comments": 13,
+  "reactions": 0,
+  "labels": [
+   "bug",
+   "OS:windows",
+   "qt"
+  ],
+  "milestone": "meson-next"
+ },
+ {
+  "number": 3330,
+  "title": "ninja backend + msvc: clean of shared library targets is missing most of the files.",
+  "createdAt": "2018-03-27T20:51:34Z",
+  "updatedAt": "2018-03-27T20:52:10Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3330",
+  "author": "textshell",
+  "comments": 0,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 3332,
+  "title": "windows: shared_library without exports caused stack trace on install",
+  "createdAt": "2018-03-27T21:10:58Z",
+  "updatedAt": "2020-09-21T00:34:03Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3332",
+  "author": "textshell",
+  "comments": 1,
+  "reactions": 0,
+  "labels": [
+   "compilers",
+   "OS:windows"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 3333,
+  "title": "run_target() dependencies are missing when using vs2017 generator",
+  "createdAt": "2018-03-28T13:34:13Z",
+  "updatedAt": "2018-06-25T10:55:26Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3333",
+  "author": "dndanik",
+  "comments": 1,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 3338,
+  "title": "Add -Bsymbolic by default",
+  "createdAt": "2018-03-29T08:22:38Z",
+  "updatedAt": "2022-02-12T15:02:40Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3338",
+  "author": "heftig",
+  "comments": 4,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 3342,
+  "title": "shared generators",
+  "createdAt": "2018-03-29T23:10:25Z",
+  "updatedAt": "2018-03-29T23:10:25Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3342",
+  "author": "sarum9in",
+  "comments": 0,
+  "reactions": 0,
+  "labels": [
+   "enhancement",
+   "generators"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 3344,
+  "title": "paths method",
+  "createdAt": "2018-03-30T11:41:39Z",
+  "updatedAt": "2019-02-13T11:17:52Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3344",
+  "author": "mikkelfj",
+  "comments": 4,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 3357,
+  "title": "Could the manual please mention that 'build dir' and 'source dir' can be swapped, as args",
+  "createdAt": "2018-04-02T19:59:37Z",
+  "updatedAt": "2026-04-16T13:29:07Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3357",
+  "author": null,
+  "comments": 2,
+  "reactions": 1,
+  "labels": [
+   "documentation"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 3382,
+  "title": "Generating VS2015 project on Linux fails",
+  "createdAt": "2018-04-11T08:03:07Z",
+  "updatedAt": "2018-06-06T12:46:42Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3382",
+  "author": null,
+  "comments": 5,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 3439,
+  "title": "cross file cannot find binaries with a relative path",
+  "createdAt": "2018-04-19T23:34:14Z",
+  "updatedAt": "2021-07-05T11:05:14Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3439",
+  "author": "honsch",
+  "comments": 8,
+  "reactions": 6,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 3442,
+  "title": "override_find_program can cause configure time failures that the parent project cannot work around",
+  "createdAt": "2018-04-20T15:59:57Z",
+  "updatedAt": "2019-08-16T02:05:17Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3442",
+  "author": "MathieuDuponchelle",
+  "comments": 5,
+  "reactions": 0,
+  "labels": [
+   "gnome",
+   "gstreamer"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 3477,
+  "title": "meson test: disable error dialog boxes on Windows",
+  "createdAt": "2018-04-26T08:22:52Z",
+  "updatedAt": "2022-09-08T23:57:44Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3477",
+  "author": "lazka",
+  "comments": 1,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 3482,
+  "title": "cc.has_function() should warn when the `prefix:` does not #include a header",
+  "createdAt": "2018-04-26T20:59:04Z",
+  "updatedAt": "2022-11-14T10:38:43Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3482",
+  "author": "nirbheek",
+  "comments": 2,
+  "reactions": 2,
+  "labels": [
+   "bug",
+   "compilers",
+   "OS:windows",
+   "OS:macos"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 3500,
+  "title": "[wrap] Add vcpkg as another usable source to automatically fetch subprojects from",
+  "createdAt": "2018-04-29T17:49:16Z",
+  "updatedAt": "2024-11-08T12:11:39Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3500",
+  "author": "anordal",
+  "comments": 22,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 3519,
+  "title": "fts.h on Linux does not support _FILE_OFFSET_BITS=64 on glibc older than 2015",
+  "createdAt": "2018-05-03T12:26:29Z",
+  "updatedAt": "2024-05-16T20:32:16Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3519",
+  "author": "siteshwar",
+  "comments": 7,
+  "reactions": 0,
+  "labels": [
+   "bug",
+   "compilers"
+  ],
+  "milestone": "meson-next"
+ },
+ {
+  "number": 3522,
+  "title": "Newline in target name breaks build dir permanently (ninja backend)",
+  "createdAt": "2018-05-04T02:39:39Z",
+  "updatedAt": "2018-05-04T12:52:07Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3522",
+  "author": "Akaricchi",
+  "comments": 2,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 3524,
+  "title": "Add b_fast and b_march_native or something similar and make it possible to set them to \"if-release\"",
+  "createdAt": "2018-05-04T04:44:33Z",
+  "updatedAt": "2018-05-06T05:07:47Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3524",
+  "author": "martin-ejdestig",
+  "comments": 3,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 3535,
+  "title": "Easy way to get the project version from the command-line",
+  "createdAt": "2018-05-05T14:15:36Z",
+  "updatedAt": "2025-02-04T09:23:46Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3535",
+  "author": "nirbheek",
+  "comments": 7,
+  "reactions": 11,
+  "labels": [
+   "enhancement",
+   "introspection"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 3537,
+  "title": "Try to link with -lfoo when find_library(libfoo) was used",
+  "createdAt": "2018-05-05T22:19:15Z",
+  "updatedAt": "2018-05-22T00:31:56Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3537",
+  "author": "martinetd",
+  "comments": 8,
+  "reactions": 0,
+  "labels": [
+   "compilers"
+  ],
+  "milestone": "meson-next"
+ },
+ {
+  "number": 3546,
+  "title": "generate_gir() does not make it possible to handle stub .gir files",
+  "createdAt": "2018-05-08T07:06:09Z",
+  "updatedAt": "2018-05-08T07:06:09Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3546",
+  "author": "pkern",
+  "comments": 0,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 3548,
+  "title": "install_mode should support octal modes",
+  "createdAt": "2018-05-08T23:16:57Z",
+  "updatedAt": "2018-05-08T23:16:57Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3548",
+  "author": "ddevault",
+  "comments": 0,
+  "reactions": 2,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 3551,
+  "title": "Add a way to check for the presence of a Python module",
+  "createdAt": "2018-05-09T10:27:17Z",
+  "updatedAt": "2025-02-04T09:23:05Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3551",
+  "author": "ebassi",
+  "comments": 24,
+  "reactions": 12,
+  "labels": [
+   "enhancement",
+   "modules:python"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 3559,
+  "title": "Improve automatic detection of output file list for docbook gdbus_codegen targets",
+  "createdAt": "2018-05-10T08:01:38Z",
+  "updatedAt": "2018-05-10T08:31:20Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3559",
+  "author": "nirbheek",
+  "comments": 1,
+  "reactions": 0,
+  "labels": [
+   "enhancement",
+   "gnome"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 3565,
+  "title": "Forward-slash and space munging on Windows",
+  "createdAt": "2018-05-13T19:43:25Z",
+  "updatedAt": "2026-03-04T12:29:43Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3565",
+  "author": "mqudsi",
+  "comments": 12,
+  "reactions": 0,
+  "labels": [
+   "bug",
+   "OS:windows"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 3566,
+  "title": "-O3 optimization level shouldn't be used with unity builds by default",
+  "createdAt": "2018-05-14T01:52:24Z",
+  "updatedAt": "2025-03-27T01:54:24Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3566",
+  "author": "libcg",
+  "comments": 14,
+  "reactions": 0,
+  "labels": [
+   "bug"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 3570,
+  "title": "Meson outputs incorrectly-named shared libraries on OpenBSD",
+  "createdAt": "2018-05-15T01:32:53Z",
+  "updatedAt": "2018-09-20T07:34:40Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3570",
+  "author": "kernigh",
+  "comments": 22,
+  "reactions": 1,
+  "labels": [
+   "bug",
+   "compilers",
+   "OS:*BSD"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 3581,
+  "title": "gtkdoc: Automatically generate version.xml",
+  "createdAt": "2018-05-17T12:07:56Z",
+  "updatedAt": "2018-05-17T12:07:56Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3581",
+  "author": "pwithnall",
+  "comments": 0,
+  "reactions": 3,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 3584,
+  "title": "Godot support",
+  "createdAt": "2018-05-17T18:30:20Z",
+  "updatedAt": "2018-05-17T18:30:53Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3584",
+  "author": "cassidyjames",
+  "comments": 0,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 3585,
+  "title": "add_project_link_args() is ambigous for targets that mix .c and .m files",
+  "createdAt": "2018-05-17T20:42:43Z",
+  "updatedAt": "2018-05-17T20:42:43Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3585",
+  "author": "xclaesse",
+  "comments": 0,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 3589,
+  "title": "Relative paths of files() are passed to a command when `custom_target` is used",
+  "createdAt": "2018-05-18T10:05:01Z",
+  "updatedAt": "2018-05-18T10:05:01Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3589",
+  "author": "evverx",
+  "comments": 0,
+  "reactions": 2,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 3593,
+  "title": "c++ -Wl,--as-needed doesn't work in OpenBSD",
+  "createdAt": "2018-05-19T01:19:57Z",
+  "updatedAt": "2024-07-22T16:07:45Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3593",
+  "author": "kernigh",
+  "comments": 12,
+  "reactions": 1,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 3596,
+  "title": "What should \"debug\" mean",
+  "createdAt": "2018-05-20T01:25:14Z",
+  "updatedAt": "2018-08-15T22:26:30Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3596",
+  "author": "jpakkane",
+  "comments": 6,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 3603,
+  "title": "unit tests: snippet heading test is broken",
+  "createdAt": "2018-05-21T11:54:25Z",
+  "updatedAt": "2018-05-21T11:56:12Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3603",
+  "author": "MathieuDuponchelle",
+  "comments": 0,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 3623,
+  "title": "Make it easier to dump strings to a file",
+  "createdAt": "2018-05-24T11:30:19Z",
+  "updatedAt": "2024-10-04T18:07:31Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3623",
+  "author": "hadess",
+  "comments": 2,
+  "reactions": 6,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 3628,
+  "title": "During cross compilation, base_options are being applied from native compiler class instead of cross compiler class",
+  "createdAt": "2018-05-25T11:16:51Z",
+  "updatedAt": "2019-12-17T23:05:58Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3628",
+  "author": "sompen",
+  "comments": 6,
+  "reactions": 0,
+  "labels": [
+   "bug",
+   "compilers",
+   "cross"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 3635,
+  "title": "Speed-up compiler checks by parallelizing where possible",
+  "createdAt": "2018-05-26T08:27:55Z",
+  "updatedAt": "2024-01-30T19:55:24Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3635",
+  "author": "nirbheek",
+  "comments": 53,
+  "reactions": 5,
+  "labels": [
+   "enhancement",
+   "compilers",
+   "help wanted",
+   "perf"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 3648,
+  "title": "Ensure that the current C/C++ compilers are MSVC when using the VS backends",
+  "createdAt": "2018-05-31T08:33:07Z",
+  "updatedAt": "2018-05-31T08:33:07Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3648",
+  "author": "nirbheek",
+  "comments": 0,
+  "reactions": 0,
+  "labels": [
+   "bug",
+   "compilers",
+   "OS:windows"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 3650,
+  "title": "dependency-specific keywords to dependency() are always accepted",
+  "createdAt": "2018-05-31T13:17:17Z",
+  "updatedAt": "2018-05-31T13:18:32Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3650",
+  "author": "jon-turney",
+  "comments": 0,
+  "reactions": 0,
+  "labels": [
+   "bug",
+   "dependencies",
+   "good first issue"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 3659,
+  "title": "Could you please help with compile under profiler support like gprof",
+  "createdAt": "2018-06-01T18:27:44Z",
+  "updatedAt": "2026-02-27T12:35:03Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3659",
+  "author": "vit1251",
+  "comments": 12,
+  "reactions": 0,
+  "labels": [
+   "enhancement",
+   "compilers"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 3665,
+  "title": "make possible to choose one of many compilers?",
+  "createdAt": "2018-06-02T10:09:01Z",
+  "updatedAt": "2026-02-27T12:34:14Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3665",
+  "author": "bwlee",
+  "comments": 3,
+  "reactions": 0,
+  "labels": [
+   "enhancement",
+   "compilers"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 3676,
+  "title": "has_function misdetects smul_overflow as available.",
+  "createdAt": "2018-06-03T11:16:00Z",
+  "updatedAt": "2018-06-03T11:22:40Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3676",
+  "author": "textshell",
+  "comments": 0,
+  "reactions": 1,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 3679,
+  "title": "gl dependency is extremely incomplete, and should be improved or removed",
+  "createdAt": "2018-06-04T11:33:23Z",
+  "updatedAt": "2018-06-09T14:12:10Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3679",
+  "author": "ystreet",
+  "comments": 5,
+  "reactions": 2,
+  "labels": [
+   "enhancement",
+   "dependencies"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 3740,
+  "title": "False positive in has_function()",
+  "createdAt": "2018-06-14T15:52:11Z",
+  "updatedAt": "2021-12-02T16:47:01Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3740",
+  "author": "xclaesse",
+  "comments": 10,
+  "reactions": 1,
+  "labels": [
+   "compilers"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 3742,
+  "title": "No warning_level to enable -Wpedantic but not -Wextra",
+  "createdAt": "2018-06-15T00:03:21Z",
+  "updatedAt": "2020-11-12T20:57:22Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3742",
+  "author": "dpirch",
+  "comments": 7,
+  "reactions": 1,
+  "labels": [
+   "enhancement",
+   "compilers"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 3748,
+  "title": "python3 extension module cannot find library if meson launched from a virtualenv",
+  "createdAt": "2018-06-17T17:10:44Z",
+  "updatedAt": "2018-06-21T09:02:34Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3748",
+  "author": "guruDanny67",
+  "comments": 6,
+  "reactions": 0,
+  "labels": [
+   "bug"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 3751,
+  "title": "Validate and warn about unknown systems and CPU families in cross files",
+  "createdAt": "2018-06-18T11:24:25Z",
+  "updatedAt": "2018-06-18T20:04:22Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3751",
+  "author": "nirbheek",
+  "comments": 1,
+  "reactions": 0,
+  "labels": [
+   "enhancement",
+   "cross",
+   "help wanted",
+   "good first issue"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 3758,
+  "title": "find_library() with dirs kwarg falls back to system lib dir",
+  "createdAt": "2018-06-19T10:55:44Z",
+  "updatedAt": "2018-06-19T17:22:34Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3758",
+  "author": "byron-hawkins",
+  "comments": 1,
+  "reactions": 0,
+  "labels": [
+   "compilers",
+   "dependencies"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 3765,
+  "title": "automatic build rpath not set when linking against Qt libraries (and others?)",
+  "createdAt": "2018-06-19T22:42:56Z",
+  "updatedAt": "2019-03-18T20:54:04Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3765",
+  "author": "wberrier",
+  "comments": 3,
+  "reactions": 0,
+  "labels": [
+   "bug",
+   "dependencies",
+   "qt"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 3780,
+  "title": "Prefixes in the coverage report",
+  "createdAt": "2018-06-22T16:03:18Z",
+  "updatedAt": "2018-06-22T16:06:20Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3780",
+  "author": null,
+  "comments": 0,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 3787,
+  "title": "Unhandled exception / bad error message \"is not a target\" for subproject as link dependency",
+  "createdAt": "2018-06-24T18:33:54Z",
+  "updatedAt": "2025-02-03T16:35:43Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3787",
+  "author": "mqudsi",
+  "comments": 8,
+  "reactions": 1,
+  "labels": [
+   "bug",
+   "parser/interpreter",
+   "good first issue",
+   "exception"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 3791,
+  "title": "Qt resources fail if resources have same name",
+  "createdAt": "2018-06-26T09:53:00Z",
+  "updatedAt": "2018-08-20T23:57:39Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3791",
+  "author": "ePirat",
+  "comments": 1,
+  "reactions": 0,
+  "labels": [
+   "bug",
+   "generators",
+   "qt"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 3794,
+  "title": "Meson does not properly reflect changes of dependencies",
+  "createdAt": "2018-06-26T11:30:14Z",
+  "updatedAt": "2023-06-12T19:52:46Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3794",
+  "author": "ePirat",
+  "comments": 9,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 3797,
+  "title": "Qt moc fails if sources have same name",
+  "createdAt": "2018-06-26T11:48:28Z",
+  "updatedAt": "2021-07-01T16:43:07Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3797",
+  "author": "ePirat",
+  "comments": 6,
+  "reactions": 0,
+  "labels": [
+   "bug",
+   "generators",
+   "qt",
+   "module:qt"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 3802,
+  "title": "Ensure that pkgconfig is using the 'root' cross-compilation property",
+  "createdAt": "2018-06-28T10:45:30Z",
+  "updatedAt": "2018-06-29T19:47:27Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3802",
+  "author": "tintou",
+  "comments": 1,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 3803,
+  "title": "Ensure that the `--sysroot=` argument is set when using the 'root' cross-compilation property",
+  "createdAt": "2018-06-28T10:48:16Z",
+  "updatedAt": "2018-06-29T19:50:34Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3803",
+  "author": "tintou",
+  "comments": 1,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 3812,
+  "title": "Documentation for meson developers",
+  "createdAt": "2018-06-30T09:32:47Z",
+  "updatedAt": "2018-07-01T12:49:18Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3812",
+  "author": "behlec",
+  "comments": 6,
+  "reactions": 0,
+  "labels": [
+   "documentation"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 3822,
+  "title": "Streamline inter-target build dependency management",
+  "createdAt": "2018-07-02T08:36:57Z",
+  "updatedAt": "2022-04-27T20:57:23Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3822",
+  "author": "nirbheek",
+  "comments": 2,
+  "reactions": 0,
+  "labels": [
+   "enhancement"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 3839,
+  "title": "coverage report doesn't include rust sources",
+  "createdAt": "2018-07-05T18:12:41Z",
+  "updatedAt": "2018-07-05T18:12:41Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3839",
+  "author": "tko",
+  "comments": 0,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 3848,
+  "title": "Should not try to execute the same subproject twice",
+  "createdAt": "2018-07-07T11:32:05Z",
+  "updatedAt": "2018-10-22T07:39:41Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3848",
+  "author": "nirbheek",
+  "comments": 1,
+  "reactions": 0,
+  "labels": [
+   "bug",
+   "parser/interpreter",
+   "subprojects/wraps"
+  ],
+  "milestone": "meson-next"
+ },
+ {
+  "number": 3852,
+  "title": "meson continues to link against previous debug/release version of Qt after reconfigure",
+  "createdAt": "2018-07-09T03:12:19Z",
+  "updatedAt": "2018-07-09T09:48:22Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3852",
+  "author": "mqudsi",
+  "comments": 2,
+  "reactions": 0,
+  "labels": [
+   "bug",
+   "compilers",
+   "options"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 3864,
+  "title": "wraps and patch files should be signed and the public keys shipped with meson",
+  "createdAt": "2018-07-10T13:03:41Z",
+  "updatedAt": "2019-01-04T11:17:42Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3864",
+  "author": "nirbheek",
+  "comments": 23,
+  "reactions": 3,
+  "labels": [
+   "enhancement",
+   "subprojects/wraps"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 3868,
+  "title": "Friendlier messages when a dependency can't be found",
+  "createdAt": "2018-07-10T22:00:33Z",
+  "updatedAt": "2018-12-14T16:51:18Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3868",
+  "author": "nirbheek",
+  "comments": 1,
+  "reactions": 0,
+  "labels": [
+   "dependencies",
+   "documentation"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 3882,
+  "title": "RPATHs to external libraries that aren't in the default library search path",
+  "createdAt": "2018-07-13T09:22:50Z",
+  "updatedAt": "2020-05-17T00:11:06Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3882",
+  "author": "prlw1",
+  "comments": 7,
+  "reactions": 0,
+  "labels": [
+   "bug",
+   "dependencies"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 3892,
+  "title": "ERROR: 'gtkdoc-scangobj' failed with status 1",
+  "createdAt": "2018-07-16T09:06:41Z",
+  "updatedAt": "2021-08-31T05:39:47Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3892",
+  "author": "bigon",
+  "comments": 17,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 3903,
+  "title": "RFE: add possibility to get output of vcs_tag() without configuring file",
+  "createdAt": "2018-07-18T11:16:26Z",
+  "updatedAt": "2018-09-18T23:52:36Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3903",
+  "author": "igor-raits",
+  "comments": 2,
+  "reactions": 6,
+  "labels": [
+   "enhancement"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 3907,
+  "title": "Suggestion: add function unreliable_glob",
+  "createdAt": "2018-07-18T14:33:09Z",
+  "updatedAt": "2018-08-01T07:06:30Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3907",
+  "author": "jpakkane",
+  "comments": 5,
+  "reactions": 2,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 3911,
+  "title": "New method on python module: `find_installation().get_shebang()`",
+  "createdAt": "2018-07-19T07:53:44Z",
+  "updatedAt": "2020-08-09T17:55:04Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3911",
+  "author": "nirbheek",
+  "comments": 6,
+  "reactions": 0,
+  "labels": [
+   "enhancement",
+   "gnome"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 3917,
+  "title": "Dist doesn't respect meson configuration",
+  "createdAt": "2018-07-19T16:38:38Z",
+  "updatedAt": "2026-03-04T12:38:21Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3917",
+  "author": "csoriano1618",
+  "comments": 7,
+  "reactions": 1,
+  "labels": [
+   "enhancement",
+   "dist"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 3918,
+  "title": "Using builtin targets as dependency for run_target",
+  "createdAt": "2018-07-19T18:03:36Z",
+  "updatedAt": "2019-02-04T16:13:54Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3918",
+  "author": "p371jah",
+  "comments": 1,
+  "reactions": 4,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 3923,
+  "title": "Meson has_link_argument doesn't work for --version-script on FreeBSD",
+  "createdAt": "2018-07-21T14:56:14Z",
+  "updatedAt": "2018-09-09T18:12:20Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3923",
+  "author": "lantw44",
+  "comments": 4,
+  "reactions": 0,
+  "labels": [
+   "bug",
+   "compilers"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 3941,
+  "title": "Allow passing multiple FeatureOptions to `required:`",
+  "createdAt": "2018-07-25T11:20:54Z",
+  "updatedAt": "2026-03-23T16:21:59Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3941",
+  "author": "nirbheek",
+  "comments": 7,
+  "reactions": 0,
+  "labels": [
+   "enhancement",
+   "options"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 3966,
+  "title": "Run a no-op check after each project test",
+  "createdAt": "2018-08-01T15:53:31Z",
+  "updatedAt": "2018-08-01T15:53:40Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3966",
+  "author": "nirbheek",
+  "comments": 0,
+  "reactions": 0,
+  "labels": [
+   "enhancement",
+   "CI"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 3970,
+  "title": "Don't add private dependencies to Requires.private when --default-library=shared",
+  "createdAt": "2018-08-03T07:38:17Z",
+  "updatedAt": "2025-03-06T00:32:57Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3970",
+  "author": "ximion",
+  "comments": 15,
+  "reactions": 0,
+  "labels": [
+   "bug",
+   "pkgconfig"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 3982,
+  "title": "Add a test case for building gobject-introspection with AddressSanitizer",
+  "createdAt": "2018-08-07T09:43:48Z",
+  "updatedAt": "2018-09-20T07:34:42Z",
+  "url": "https://github.com/mesonbuild/meson/issues/3982",
+  "author": "nirbheek",
+  "comments": 0,
+  "reactions": 0,
+  "labels": [
+   "enhancement",
+   "CI"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 4005,
+  "title": "ARM Compiler cross tests in Meson CI",
+  "createdAt": "2018-08-10T13:17:38Z",
+  "updatedAt": "2025-03-28T10:20:13Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4005",
+  "author": "mohdamerkhalidi",
+  "comments": 2,
+  "reactions": 0,
+  "labels": [
+   "CI"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 4009,
+  "title": "gnome.gtkdoc integration breaks when ASAN is enabled",
+  "createdAt": "2018-08-10T19:33:50Z",
+  "updatedAt": "2018-10-10T11:29:31Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4009",
+  "author": "chergert",
+  "comments": 3,
+  "reactions": 0,
+  "labels": [
+   "bug",
+   "gnome"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 4019,
+  "title": "Provide 'rename' capability for installing executables and libraries",
+  "createdAt": "2018-08-14T01:28:48Z",
+  "updatedAt": "2023-05-26T14:37:14Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4019",
+  "author": "keith-packard",
+  "comments": 17,
+  "reactions": 0,
+  "labels": [
+   "enhancement"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 4028,
+  "title": "Tests in run_project_tests.py don't run `meson install`  when using the VS backends",
+  "createdAt": "2018-08-14T21:25:42Z",
+  "updatedAt": "2018-09-20T07:34:43Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4028",
+  "author": "nirbheek",
+  "comments": 0,
+  "reactions": 0,
+  "labels": [
+   "OS:windows",
+   "install targets",
+   "CI"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 4071,
+  "title": "Regression: meson no longer defaults to `needs_exe_wrapper: false` for 32-bit on 64-bit builds of the same architecture",
+  "createdAt": "2018-08-22T18:03:55Z",
+  "updatedAt": "2018-09-20T07:34:43Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4071",
+  "author": "nirbheek",
+  "comments": 0,
+  "reactions": 0,
+  "labels": [
+   "cross",
+   "regression"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 4074,
+  "title": "Decoding issue. ",
+  "createdAt": "2018-08-23T02:07:26Z",
+  "updatedAt": "2025-03-28T10:44:13Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4074",
+  "author": "pavlosun",
+  "comments": 1,
+  "reactions": 0,
+  "labels": [
+   "module:gnome",
+   "exception"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 4081,
+  "title": "Document the generic linker argument syntax.",
+  "createdAt": "2018-08-25T20:28:59Z",
+  "updatedAt": "2018-09-02T17:15:23Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4081",
+  "author": "textshell",
+  "comments": 0,
+  "reactions": 0,
+  "labels": [
+   "documentation"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 4082,
+  "title": "Document the generic C style compiler argument syntax.",
+  "createdAt": "2018-08-25T20:35:29Z",
+  "updatedAt": "2018-08-25T22:13:55Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4082",
+  "author": "textshell",
+  "comments": 3,
+  "reactions": 0,
+  "labels": [
+   "documentation"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 4094,
+  "title": "Modules are global to all subprojects and references to the Interpreter are never updated",
+  "createdAt": "2018-08-28T19:44:53Z",
+  "updatedAt": "2018-09-20T07:34:43Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4094",
+  "author": "thiblahute",
+  "comments": 1,
+  "reactions": 0,
+  "labels": [
+   "bug",
+   "parser/interpreter",
+   "subprojects/wraps"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 4103,
+  "title": "QDoc integration",
+  "createdAt": "2018-08-30T18:07:15Z",
+  "updatedAt": "2018-09-01T11:18:31Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4103",
+  "author": "z3ntu",
+  "comments": 0,
+  "reactions": 0,
+  "labels": [
+   "qt"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 4105,
+  "title": "Meson can't find the resource compiler when using clang in MSVC ABI mode",
+  "createdAt": "2018-08-30T21:49:35Z",
+  "updatedAt": "2022-06-20T16:22:19Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4105",
+  "author": "barcharcraz",
+  "comments": 19,
+  "reactions": 0,
+  "labels": [
+   "compilers",
+   "OS:windows"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 4126,
+  "title": "gnome.generate_gir should support dependency objects",
+  "createdAt": "2018-09-04T07:49:46Z",
+  "updatedAt": "2018-09-05T01:38:25Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4126",
+  "author": "grimmy",
+  "comments": 0,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 4133,
+  "title": "Can't change name_suffix/prefix for only static library in both_libraries()",
+  "createdAt": "2018-09-06T08:27:12Z",
+  "updatedAt": "2018-09-07T09:09:03Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4133",
+  "author": "nacho",
+  "comments": 9,
+  "reactions": 0,
+  "labels": [
+   "bug",
+   "OS:windows"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 4140,
+  "title": "Missing LINGUAS environment variable behaviour semantics for /usr/share/locale translation installation",
+  "createdAt": "2018-09-07T10:32:43Z",
+  "updatedAt": "2021-09-05T19:36:44Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4140",
+  "author": "leio",
+  "comments": 4,
+  "reactions": 1,
+  "labels": [
+   "module:i18n"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 4141,
+  "title": "Add support for runstatedir",
+  "createdAt": "2018-09-08T21:12:34Z",
+  "updatedAt": "2023-03-02T14:01:00Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4141",
+  "author": "mbiebl",
+  "comments": 6,
+  "reactions": 4,
+  "labels": [
+   "good first issue"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 4143,
+  "title": "Support whole-archive directives in pkg-config files",
+  "createdAt": "2018-09-08T22:49:45Z",
+  "updatedAt": "2018-09-20T07:34:43Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4143",
+  "author": "espindola",
+  "comments": 9,
+  "reactions": 1,
+  "labels": [
+   "bug",
+   "regression",
+   "pkgconfig"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 4171,
+  "title": "ERROR: Can not use target js_embed as generator",
+  "createdAt": "2018-09-13T03:20:13Z",
+  "updatedAt": "2018-09-14T03:07:13Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4171",
+  "author": "Eric-Ryan",
+  "comments": 0,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 4179,
+  "title": "Cannot override qt programs",
+  "createdAt": "2018-09-14T13:16:11Z",
+  "updatedAt": "2018-12-18T18:33:20Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4179",
+  "author": "Salamandar",
+  "comments": 2,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 4190,
+  "title": "meson wrap does not consider subproject_dir option",
+  "createdAt": "2018-09-16T18:10:59Z",
+  "updatedAt": "2018-09-16T18:10:59Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4190",
+  "author": "flub",
+  "comments": 0,
+  "reactions": 2,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 4244,
+  "title": "Mixed PIC due to helper libraries",
+  "createdAt": "2018-09-23T17:43:20Z",
+  "updatedAt": "2018-09-23T17:43:20Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4244",
+  "author": "ePirat",
+  "comments": 0,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 4253,
+  "title": "dependency module requirements based on dependency version.",
+  "createdAt": "2018-09-24T16:28:14Z",
+  "updatedAt": "2018-09-24T20:59:03Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4253",
+  "author": "dcbaker",
+  "comments": 9,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 4270,
+  "title": "rpaths_for_bundled_shared_libraries adds unnecessary RPATH for pkg-config dependencies and causes linking failure",
+  "createdAt": "2018-09-26T16:07:28Z",
+  "updatedAt": "2018-09-26T16:46:18Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4270",
+  "author": "lantw44",
+  "comments": 0,
+  "reactions": 1,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 4274,
+  "title": "meson won't link libgcc and libstdc++ statically in the 32-bit mingw environtment",
+  "createdAt": "2018-09-27T07:07:15Z",
+  "updatedAt": "2025-02-14T23:26:16Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4274",
+  "author": "crab2313",
+  "comments": 0,
+  "reactions": 2,
+  "labels": [
+   "OS:windows"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 4295,
+  "title": "Passing an empty string to install_data's install_dir parameter is equivalent to not specifying it at all",
+  "createdAt": "2018-09-29T23:49:48Z",
+  "updatedAt": "2018-09-29T23:50:08Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4295",
+  "author": "Akaricchi",
+  "comments": 0,
+  "reactions": 1,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 4298,
+  "title": "Support a cross-platform symbol export list for library targets",
+  "createdAt": "2018-09-30T09:50:29Z",
+  "updatedAt": "2025-02-03T17:29:29Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4298",
+  "author": "haasn",
+  "comments": 7,
+  "reactions": 2,
+  "labels": [
+   "dynamic linkers"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 4299,
+  "title": "Manage unit test output directory",
+  "createdAt": "2018-09-30T11:34:04Z",
+  "updatedAt": "2018-10-02T19:44:29Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4299",
+  "author": "nomis",
+  "comments": 2,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 4339,
+  "title": "Meson passes incorrect rpath to linker on macOS",
+  "createdAt": "2018-10-06T20:55:48Z",
+  "updatedAt": "2018-10-13T12:04:41Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4339",
+  "author": "ePirat",
+  "comments": 3,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 4345,
+  "title": "The get cmd_array() call on get_compiler() does not include compiler flags",
+  "createdAt": "2018-10-08T07:35:53Z",
+  "updatedAt": "2025-03-26T02:47:07Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4345",
+  "author": "egtvedt",
+  "comments": 4,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 4350,
+  "title": "Shared precompiled header",
+  "createdAt": "2018-10-08T19:38:49Z",
+  "updatedAt": "2025-04-23T15:30:04Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4350",
+  "author": "etermaw",
+  "comments": 9,
+  "reactions": 2,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 4355,
+  "title": "Results of find_program('some-script\") should be consistent, irrespective of value of PATHEXT",
+  "createdAt": "2018-10-09T20:36:19Z",
+  "updatedAt": "2024-04-02T14:38:41Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4355",
+  "author": "jon-turney",
+  "comments": 12,
+  "reactions": 0,
+  "labels": [
+   "OS:windows"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 4366,
+  "title": "Allow specifying a separate tool for assembling .s/.S files",
+  "createdAt": "2018-10-13T19:40:33Z",
+  "updatedAt": "2018-10-13T19:40:33Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4366",
+  "author": "mstorsjo",
+  "comments": 0,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 4383,
+  "title": "Order of \"-I\" arguments causes compiler to pick wrong header",
+  "createdAt": "2018-10-18T04:55:55Z",
+  "updatedAt": "2019-03-06T15:51:32Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4383",
+  "author": "ascent12",
+  "comments": 1,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 4385,
+  "title": "Unable to use extract_objects() for Vala unit tests",
+  "createdAt": "2018-10-18T16:00:53Z",
+  "updatedAt": "2018-10-18T16:00:53Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4385",
+  "author": "astavale",
+  "comments": 0,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 4395,
+  "title": "Reimplement auto pull of wraps downloaded by vcs as documented.",
+  "createdAt": "2018-10-20T10:33:16Z",
+  "updatedAt": "2018-10-20T11:58:06Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4395",
+  "author": "textshell",
+  "comments": 1,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 4402,
+  "title": "How to cross compile for ARM with MSVC?",
+  "createdAt": "2018-10-22T13:12:42Z",
+  "updatedAt": "2020-09-10T13:25:47Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4402",
+  "author": "mstorsjo",
+  "comments": 15,
+  "reactions": 1,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 4412,
+  "title": "Add callgraph ninja target",
+  "createdAt": "2018-10-24T15:54:48Z",
+  "updatedAt": "2018-10-24T16:16:26Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4412",
+  "author": "hadess",
+  "comments": 1,
+  "reactions": 1,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 4413,
+  "title": "Need a mechanism for Vala to resolve symbols when using extract_objects()",
+  "createdAt": "2018-10-24T16:24:47Z",
+  "updatedAt": "2022-05-23T11:00:45Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4413",
+  "author": "astavale",
+  "comments": 1,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 4417,
+  "title": "Meson uses install_name_tool on incompatible binaries",
+  "createdAt": "2018-10-25T01:47:35Z",
+  "updatedAt": "2023-11-06T08:56:57Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4417",
+  "author": "ePirat",
+  "comments": 1,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 4442,
+  "title": "Ninja goes into a reconfigure loop when the machine time goes backwards",
+  "createdAt": "2018-10-29T12:45:18Z",
+  "updatedAt": "2019-01-02T22:10:43Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4442",
+  "author": "nirbheek",
+  "comments": 3,
+  "reactions": 0,
+  "labels": [
+   "bug"
+  ],
+  "milestone": "0.49.0"
+ },
+ {
+  "number": 4448,
+  "title": "Missing checks on wrap `directory` option",
+  "createdAt": "2018-10-30T02:41:40Z",
+  "updatedAt": "2026-02-27T12:36:25Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4448",
+  "author": "becm",
+  "comments": 0,
+  "reactions": 0,
+  "labels": [
+   "subprojects/wraps"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 4464,
+  "title": "Meson doesn't link to Boost correctly on NetBSD",
+  "createdAt": "2018-11-03T21:04:09Z",
+  "updatedAt": "2018-11-04T10:26:50Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4464",
+  "author": "nomis",
+  "comments": 5,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 4465,
+  "title": "Get build target compiler flags",
+  "createdAt": "2018-11-03T21:23:54Z",
+  "updatedAt": "2018-11-04T17:58:46Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4465",
+  "author": "yshui",
+  "comments": 2,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 4467,
+  "title": "[freestanding C/C++] Unable to include crt*.o files on the linking stage in the right order",
+  "createdAt": "2018-11-03T23:57:08Z",
+  "updatedAt": "2018-11-04T20:49:16Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4467",
+  "author": "agvallejo",
+  "comments": 1,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 4468,
+  "title": "Automatically find dependencies on standard locations on BSD systems",
+  "createdAt": "2018-11-04T10:40:51Z",
+  "updatedAt": "2023-11-02T20:53:54Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4468",
+  "author": "nomis",
+  "comments": 11,
+  "reactions": 5,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 4474,
+  "title": "gnome.compile_schemas() documentation seems wrong",
+  "createdAt": "2018-11-05T06:24:53Z",
+  "updatedAt": "2018-11-05T06:24:53Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4474",
+  "author": "pksadiq",
+  "comments": 0,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 4477,
+  "title": "Can not use gnome.compile_resources to produce two gresource files with the same base name",
+  "createdAt": "2018-11-06T02:19:32Z",
+  "updatedAt": "2018-11-06T18:51:15Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4477",
+  "author": "jhenstridge",
+  "comments": 1,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 4484,
+  "title": "Feature Request: make ProjectGuid deterministic for MSVC backends",
+  "createdAt": "2018-11-07T08:16:59Z",
+  "updatedAt": "2018-11-07T08:16:59Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4484",
+  "author": "robUx4",
+  "comments": 0,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 4486,
+  "title": "How to add default include directories for library found with compiler.find_library",
+  "createdAt": "2018-11-07T13:30:15Z",
+  "updatedAt": "2022-10-23T00:54:24Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4486",
+  "author": "justyn",
+  "comments": 8,
+  "reactions": 1,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 4493,
+  "title": "Cannot get Meson to work with Android NDK cross-compilation on Windows",
+  "createdAt": "2018-11-08T13:08:18Z",
+  "updatedAt": "2020-02-12T05:54:19Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4493",
+  "author": "Antonz0",
+  "comments": 8,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 4498,
+  "title": "Allow specifying default compilers in meson.build",
+  "createdAt": "2018-11-08T19:59:58Z",
+  "updatedAt": "2025-09-23T16:04:48Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4498",
+  "author": "john5342",
+  "comments": 8,
+  "reactions": 9,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 4501,
+  "title": "RFC: Do not check for builtins in has_function, add has_builtin",
+  "createdAt": "2018-11-09T14:01:25Z",
+  "updatedAt": "2018-11-09T17:09:36Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4501",
+  "author": "ePirat",
+  "comments": 1,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 4510,
+  "title": "Wrap HTTPS SSL fallback redirects to HTTPS again",
+  "createdAt": "2018-11-13T22:05:59Z",
+  "updatedAt": "2019-04-18T23:34:45Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4510",
+  "author": "gnail",
+  "comments": 2,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 4532,
+  "title": "Multiple @BASENAME@ for configure_file() raising warning",
+  "createdAt": "2018-11-19T12:01:09Z",
+  "updatedAt": "2018-11-21T23:43:16Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4532",
+  "author": "djdeath",
+  "comments": 2,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 4541,
+  "title": "gnome.generate_gir uses improper shared-library with executable and ASAN",
+  "createdAt": "2018-11-21T19:45:16Z",
+  "updatedAt": "2023-04-01T09:36:31Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4541",
+  "author": "chergert",
+  "comments": 2,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 4553,
+  "title": "dependency fails to find lua on ubuntu 18.04",
+  "createdAt": "2018-11-27T07:43:36Z",
+  "updatedAt": "2022-08-23T20:18:10Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4553",
+  "author": "mokafolio",
+  "comments": 9,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 4561,
+  "title": "Not able to change executable's directory",
+  "createdAt": "2018-11-29T08:23:18Z",
+  "updatedAt": "2018-12-05T17:53:40Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4561",
+  "author": null,
+  "comments": 3,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 4563,
+  "title": "How can attributes of a dependency (includes, compiler flags, etc.) be printed?",
+  "createdAt": "2018-11-29T19:36:39Z",
+  "updatedAt": "2026-02-03T23:12:05Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4563",
+  "author": "wbthomason",
+  "comments": 14,
+  "reactions": 12,
+  "labels": [
+   "enhancement",
+   "parser/interpreter"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 4572,
+  "title": "How to customize bindir setting from meson.build configuration file?",
+  "createdAt": "2018-12-01T17:37:28Z",
+  "updatedAt": "2018-12-01T19:52:03Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4572",
+  "author": "mcandre",
+  "comments": 1,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 4574,
+  "title": "Do something smarter with options",
+  "createdAt": "2018-12-01T22:11:05Z",
+  "updatedAt": "2022-08-22T18:08:56Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4574",
+  "author": "jpakkane",
+  "comments": 10,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 4577,
+  "title": "Cannot access version in default_options",
+  "createdAt": "2018-12-02T13:01:32Z",
+  "updatedAt": "2025-02-04T10:08:55Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4577",
+  "author": "jtojnar",
+  "comments": 3,
+  "reactions": 0,
+  "labels": [
+   "exception"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 4597,
+  "title": "Meson not fully respecting -I/-L inside CLFAGS/LDFLAGS",
+  "createdAt": "2018-12-07T07:41:07Z",
+  "updatedAt": "2020-08-02T09:03:14Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4597",
+  "author": "haasn",
+  "comments": 4,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 4608,
+  "title": "Python 3 can't be found on NetBSD 8.0 or DragonFlyBSD 5.2",
+  "createdAt": "2018-12-09T10:34:24Z",
+  "updatedAt": "2022-05-11T08:08:48Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4608",
+  "author": "nomis",
+  "comments": 8,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 4615,
+  "title": "--as-needed is broken with gnu ld",
+  "createdAt": "2018-12-10T16:23:08Z",
+  "updatedAt": "2018-12-10T16:23:08Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4615",
+  "author": "spavlovskyi",
+  "comments": 0,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 4632,
+  "title": "test_generate_gir_with_address_sanitizer fails under the Gentoo package manager's sandbox",
+  "createdAt": "2018-12-13T15:22:19Z",
+  "updatedAt": "2018-12-17T18:02:08Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4632",
+  "author": "williamh",
+  "comments": 2,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 4637,
+  "title": "Use native files for saving the command line",
+  "createdAt": "2018-12-14T23:45:10Z",
+  "updatedAt": "2020-03-17T17:08:36Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4637",
+  "author": "dcbaker",
+  "comments": 14,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 4647,
+  "title": "pkg-config missing dependency not reported",
+  "createdAt": "2018-12-17T12:50:56Z",
+  "updatedAt": "2018-12-17T12:50:56Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4647",
+  "author": "kjeldflarup",
+  "comments": 0,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 4650,
+  "title": "meson --wipe forgets about CFLAGS and friends",
+  "createdAt": "2018-12-17T22:46:41Z",
+  "updatedAt": "2025-03-26T20:56:53Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4650",
+  "author": "dcbaker",
+  "comments": 9,
+  "reactions": 0,
+  "labels": [
+   "bug",
+   "mesa/wayland/xorg",
+   "documentation"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 4651,
+  "title": "Explicitly disable pie when pie is false",
+  "createdAt": "2018-12-18T17:35:54Z",
+  "updatedAt": "2023-02-03T01:57:57Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4651",
+  "author": "yshui",
+  "comments": 8,
+  "reactions": 1,
+  "labels": [
+   "bug"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 4669,
+  "title": "Support positional arguments also as kwargs",
+  "createdAt": "2018-12-20T08:00:30Z",
+  "updatedAt": "2020-11-02T07:30:19Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4669",
+  "author": "inigomartinez",
+  "comments": 1,
+  "reactions": 1,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 4675,
+  "title": "Possibility to depend on the tarball generated by `ninja dist`",
+  "createdAt": "2018-12-22T14:16:59Z",
+  "updatedAt": "2021-09-18T15:56:19Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4675",
+  "author": "thmo",
+  "comments": 1,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 4685,
+  "title": "Meson RPATH munging can yield libraries that break ldconfig on Linux",
+  "createdAt": "2018-12-29T02:05:32Z",
+  "updatedAt": "2018-12-29T17:11:12Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4685",
+  "author": "pkgw",
+  "comments": 4,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 4692,
+  "title": "Document which functions / methods are run completely at configure time.",
+  "createdAt": "2018-12-30T19:11:09Z",
+  "updatedAt": "2018-12-30T19:11:09Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4692",
+  "author": "textshell",
+  "comments": 0,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 4694,
+  "title": "cross build definition file not flexible enough to support cross compilation",
+  "createdAt": "2018-12-30T23:59:11Z",
+  "updatedAt": "2023-12-18T10:59:58Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4694",
+  "author": "fincs",
+  "comments": 8,
+  "reactions": 2,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 4706,
+  "title": "pkgconfig generator should create the same Libs/Libs.private for all library types",
+  "createdAt": "2019-01-02T22:22:44Z",
+  "updatedAt": "2023-05-29T03:43:03Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4706",
+  "author": "espindola",
+  "comments": 3,
+  "reactions": 0,
+  "labels": [
+   "module:pkgconfig"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 4707,
+  "title": "Add linker args for specific dependencies ",
+  "createdAt": "2019-01-03T14:46:11Z",
+  "updatedAt": "2025-10-17T16:54:10Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4707",
+  "author": "Abdullah-AlAttar",
+  "comments": 11,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 4708,
+  "title": "Fortran: .mod .smod modules files not installed or found from other directories",
+  "createdAt": "2019-01-03T18:34:44Z",
+  "updatedAt": "2025-07-21T16:08:11Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4708",
+  "author": "scivision",
+  "comments": 6,
+  "reactions": 0,
+  "labels": [
+   "install targets",
+   "language:fortran"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 4710,
+  "title": "Suggestion: add_executable_arguments()",
+  "createdAt": "2019-01-03T20:30:47Z",
+  "updatedAt": "2019-01-05T19:56:25Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4710",
+  "author": "byron-hawkins",
+  "comments": 4,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 4717,
+  "title": "File objects should be able to represent directories",
+  "createdAt": "2019-01-04T11:24:18Z",
+  "updatedAt": "2022-06-08T03:02:17Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4717",
+  "author": "Akaricchi",
+  "comments": 10,
+  "reactions": 2,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 4722,
+  "title": "Remove element from a list",
+  "createdAt": "2019-01-04T18:59:32Z",
+  "updatedAt": "2019-07-18T08:46:53Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4722",
+  "author": "Muffo",
+  "comments": 9,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 4735,
+  "title": "`compiler.run()` should use `MESON_BUILD_ROOT` as current working directory",
+  "createdAt": "2019-01-07T07:51:47Z",
+  "updatedAt": "2019-01-07T20:51:30Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4735",
+  "author": "siteshwar",
+  "comments": 1,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 4736,
+  "title": "Meson ignores RCFLAGS in the windows resources compiler",
+  "createdAt": "2019-01-07T14:02:24Z",
+  "updatedAt": "2026-04-08T17:29:23Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4736",
+  "author": "ylatuya",
+  "comments": 20,
+  "reactions": 0,
+  "labels": [
+   "OS:windows",
+   "module:windows"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 4739,
+  "title": "Convert CFLAGS et al to build options",
+  "createdAt": "2019-01-07T20:49:38Z",
+  "updatedAt": "2019-01-10T20:58:40Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4739",
+  "author": "jpakkane",
+  "comments": 2,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 4761,
+  "title": "dub dependency method cannot find libraries when they have other dependencies.",
+  "createdAt": "2019-01-11T11:52:16Z",
+  "updatedAt": "2026-03-29T09:16:16Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4761",
+  "author": "aferust",
+  "comments": 7,
+  "reactions": 0,
+  "labels": [
+   "dependencies",
+   "language:D"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 4763,
+  "title": "configure_file: Add config.vapi support",
+  "createdAt": "2019-01-12T03:31:45Z",
+  "updatedAt": "2019-01-12T03:31:45Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4763",
+  "author": "jbicha",
+  "comments": 0,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 4770,
+  "title": "custom_target does not finish command properly",
+  "createdAt": "2019-01-13T21:22:44Z",
+  "updatedAt": "2021-05-24T04:13:12Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4770",
+  "author": "inigomartinez",
+  "comments": 19,
+  "reactions": 0,
+  "labels": [
+   "module:gnome"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 4773,
+  "title": "compiler.find_library to take library version",
+  "createdAt": "2019-01-14T12:46:30Z",
+  "updatedAt": "2019-07-20T05:51:09Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4773",
+  "author": "borancar",
+  "comments": 2,
+  "reactions": 3,
+  "labels": [
+   "enhancement"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 4782,
+  "title": "Add support for dotnet core from Microsoft",
+  "createdAt": "2019-01-16T06:21:48Z",
+  "updatedAt": "2019-01-16T06:21:48Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4782",
+  "author": "felipealmeida",
+  "comments": 0,
+  "reactions": 1,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 4794,
+  "title": "g-ir-scanner fails during meson tests on ppc64el on ubuntu",
+  "createdAt": "2019-01-17T14:19:22Z",
+  "updatedAt": "2024-02-19T17:45:59Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4794",
+  "author": "xnox",
+  "comments": 4,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 4802,
+  "title": "Hardcoded list of llvm-config binary names breaks on upstream LLVM development version changes (currently: llvm-config-9 is not discovered)",
+  "createdAt": "2019-01-19T21:49:24Z",
+  "updatedAt": "2019-01-31T23:58:12Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4802",
+  "author": "TheRealCuran",
+  "comments": 13,
+  "reactions": 1,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 4839,
+  "title": "No warning if vcs_tag() and configure_file() have the same output file",
+  "createdAt": "2019-01-28T19:38:09Z",
+  "updatedAt": "2026-02-25T11:35:53Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4839",
+  "author": "lazka",
+  "comments": 1,
+  "reactions": 0,
+  "labels": [
+   "bug"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 4844,
+  "title": "Meson should not (try to) modify jarfiles",
+  "createdAt": "2019-01-29T10:42:00Z",
+  "updatedAt": "2026-06-29T16:15:04Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4844",
+  "author": "rom1v",
+  "comments": 6,
+  "reactions": 0,
+  "labels": [
+   "bug",
+   "language:java"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 4865,
+  "title": "Allow setting the pkg-config search path in the native file",
+  "createdAt": "2019-02-01T08:47:20Z",
+  "updatedAt": "2019-02-03T10:31:36Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4865",
+  "author": "trittweiler",
+  "comments": 5,
+  "reactions": 0,
+  "labels": [
+   "enhancement",
+   "mesa/wayland/xorg"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 4869,
+  "title": "failing test_install_umask on new platform (=SunOS)",
+  "createdAt": "2019-02-01T10:02:36Z",
+  "updatedAt": "2019-02-01T11:32:33Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4869",
+  "author": "chincheta0815",
+  "comments": 1,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 4872,
+  "title": "Help / Documentation wanted for how to integrate third-party lib",
+  "createdAt": "2019-02-02T09:15:08Z",
+  "updatedAt": "2019-02-03T11:50:54Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4872",
+  "author": "trittweiler",
+  "comments": 7,
+  "reactions": 1,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 4876,
+  "title": "Support using existing library builds of gmock and gtest",
+  "createdAt": "2019-02-03T20:34:31Z",
+  "updatedAt": "2019-02-13T09:04:37Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4876",
+  "author": "Conan-Kudo",
+  "comments": 3,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 4881,
+  "title": "Make `c_std=c90` an alias for `c_std=c89`",
+  "createdAt": "2019-02-05T00:05:05Z",
+  "updatedAt": "2019-02-05T00:05:26Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4881",
+  "author": "Qix-",
+  "comments": 0,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 4889,
+  "title": "Add option to support split debug informations",
+  "createdAt": "2019-02-05T22:31:44Z",
+  "updatedAt": "2024-04-05T00:29:54Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4889",
+  "author": "copelnug",
+  "comments": 11,
+  "reactions": 7,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 4906,
+  "title": "[RFC] dump() function for diagnostics",
+  "createdAt": "2019-02-09T16:39:11Z",
+  "updatedAt": "2019-12-27T19:48:19Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4906",
+  "author": "rhencke",
+  "comments": 5,
+  "reactions": 2,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 4932,
+  "title": "Add support for new gtk-doc flavour",
+  "createdAt": "2019-02-14T22:35:41Z",
+  "updatedAt": "2019-02-21T21:08:41Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4932",
+  "author": "hadess",
+  "comments": 10,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 4935,
+  "title": "Change the way the install_dir is handled for Vala libraries",
+  "createdAt": "2019-02-15T14:58:24Z",
+  "updatedAt": "2022-05-27T23:24:24Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4935",
+  "author": "tintou",
+  "comments": 1,
+  "reactions": 0,
+  "labels": [
+   "language:vala"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 4943,
+  "title": "Feature proposal: Add filter and filter out methods for Generated List",
+  "createdAt": "2019-02-17T04:42:26Z",
+  "updatedAt": "2019-03-23T15:51:19Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4943",
+  "author": "jml1795",
+  "comments": 4,
+  "reactions": 2,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 4951,
+  "title": "Add custom targets to 'dist' target",
+  "createdAt": "2019-02-19T17:32:42Z",
+  "updatedAt": "2026-03-04T12:38:14Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4951",
+  "author": "CisBetter",
+  "comments": 9,
+  "reactions": 2,
+  "labels": [
+   "dist"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 4977,
+  "title": "Feature Proposal: Add directory level all targets",
+  "createdAt": "2019-02-24T22:06:37Z",
+  "updatedAt": "2022-05-27T23:35:38Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4977",
+  "author": "jml1795",
+  "comments": 8,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 4990,
+  "title": "Generated pkg-config file does not contain include directories",
+  "createdAt": "2019-02-27T08:59:22Z",
+  "updatedAt": "2023-05-29T03:42:17Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4990",
+  "author": "asartori86",
+  "comments": 4,
+  "reactions": 0,
+  "labels": [
+   "module:pkgconfig"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 4993,
+  "title": "Cuda compiler and OpenMP",
+  "createdAt": "2019-02-27T16:49:33Z",
+  "updatedAt": "2020-02-19T00:35:21Z",
+  "url": "https://github.com/mesonbuild/meson/issues/4993",
+  "author": "jml1795",
+  "comments": 15,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 5017,
+  "title": "Can't use gnome.compile_resources files before main build target",
+  "createdAt": "2019-03-04T06:11:43Z",
+  "updatedAt": "2019-03-04T09:18:16Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5017",
+  "author": "BrainBlasted",
+  "comments": 3,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 5019,
+  "title": "qt5.compile_translations contains path separator in its target names",
+  "createdAt": "2019-03-04T14:19:49Z",
+  "updatedAt": "2022-11-22T13:47:49Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5019",
+  "author": "fiesh",
+  "comments": 2,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 5024,
+  "title": "C++20 modules are in: discussing a sane (experimental) design for Meson",
+  "createdAt": "2019-03-06T05:30:39Z",
+  "updatedAt": "2026-04-14T01:53:13Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5024",
+  "author": "germandiagogomez",
+  "comments": 167,
+  "reactions": 46,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 5036,
+  "title": "Support for \"ignoring\" a linker argument",
+  "createdAt": "2019-03-07T23:28:35Z",
+  "updatedAt": "2019-03-07T23:28:35Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5036",
+  "author": "superm1",
+  "comments": 0,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 5037,
+  "title": "Compilation warnings in gnome.generate_gir() if a builddir include path does not exist",
+  "createdAt": "2019-03-09T16:07:01Z",
+  "updatedAt": "2019-03-09T16:07:01Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5037",
+  "author": "bengal",
+  "comments": 0,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 5038,
+  "title": "i18n generating files",
+  "createdAt": "2019-03-09T22:07:52Z",
+  "updatedAt": "2021-08-26T22:48:11Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5038",
+  "author": "naaando",
+  "comments": 1,
+  "reactions": 0,
+  "labels": [
+   "module:i18n"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 5074,
+  "title": "Non existing wxWidgets modules are still found",
+  "createdAt": "2019-03-13T11:42:22Z",
+  "updatedAt": "2019-03-13T11:56:26Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5074",
+  "author": "jhasse",
+  "comments": 2,
+  "reactions": 0,
+  "labels": [
+   "bug"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 5075,
+  "title": "meson configure --clearcache doesn't allow detecting of new pkg-config files",
+  "createdAt": "2019-03-13T11:45:17Z",
+  "updatedAt": "2023-04-26T22:50:25Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5075",
+  "author": "philcaonz",
+  "comments": 1,
+  "reactions": 3,
+  "labels": [
+   "bug",
+   "pkgconfig"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 5090,
+  "title": "unclear if using (via `-fplugin`) a gcc plugin in the same meson.build that builds the plugin is possible",
+  "createdAt": "2019-03-15T03:21:19Z",
+  "updatedAt": "2026-03-04T12:28:00Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5090",
+  "author": "codyps",
+  "comments": 10,
+  "reactions": 0,
+  "labels": [
+   "enhancement"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 5093,
+  "title": "[FEATURE] Support creation of delay-load import libraries",
+  "createdAt": "2019-03-16T19:01:27Z",
+  "updatedAt": "2019-03-18T06:06:39Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5093",
+  "author": "LRN",
+  "comments": 1,
+  "reactions": 1,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 5137,
+  "title": "meson doesn't detect installed dub packages",
+  "createdAt": "2019-03-24T03:20:02Z",
+  "updatedAt": "2026-04-17T21:01:30Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5137",
+  "author": "moon-chilled",
+  "comments": 0,
+  "reactions": 0,
+  "labels": [
+   "language:D"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 5139,
+  "title": "Include Qt5 mkspecs headers",
+  "createdAt": "2019-03-25T05:43:18Z",
+  "updatedAt": "2019-03-26T20:45:40Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5139",
+  "author": "peoro",
+  "comments": 1,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 5151,
+  "title": "Need a method like cc.compiles for assembler",
+  "createdAt": "2019-03-25T23:24:27Z",
+  "updatedAt": "2019-03-25T23:26:38Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5151",
+  "author": "dcbaker",
+  "comments": 0,
+  "reactions": 1,
+  "labels": [
+   "mesa/wayland/xorg"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 5155,
+  "title": "executable, library targets don't honor sources dependencies",
+  "createdAt": "2019-03-26T16:12:02Z",
+  "updatedAt": "2022-11-18T10:00:03Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5155",
+  "author": "esodan",
+  "comments": 7,
+  "reactions": 1,
+  "labels": [
+   "language:vala"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 5166,
+  "title": "Add offsetof() function",
+  "createdAt": "2019-03-28T15:26:08Z",
+  "updatedAt": "2019-03-28T17:15:22Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5166",
+  "author": "rossburton",
+  "comments": 1,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 5168,
+  "title": "Propogate Bitness of Build to CMake Dependency Detection",
+  "createdAt": "2019-03-29T09:12:12Z",
+  "updatedAt": "2021-11-22T20:04:49Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5168",
+  "author": "cwfitzgerald",
+  "comments": 0,
+  "reactions": 0,
+  "labels": [
+   "dependency:cmake"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 5170,
+  "title": "Pass Extra CMake Arguments in Inital Pass",
+  "createdAt": "2019-03-29T10:17:45Z",
+  "updatedAt": "2021-11-22T20:04:34Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5170",
+  "author": "cwfitzgerald",
+  "comments": 6,
+  "reactions": 0,
+  "labels": [
+   "dependency:cmake"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 5174,
+  "title": "[Feature request] Add `clean_command` kwarg to `custom_target`",
+  "createdAt": "2019-03-29T14:06:37Z",
+  "updatedAt": "2021-11-22T20:09:27Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5174",
+  "author": "TheQwertiest",
+  "comments": 1,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 5179,
+  "title": "Feature request: allow defining variables before project() if they don't call any other functions",
+  "createdAt": "2019-03-30T18:34:16Z",
+  "updatedAt": "2023-03-16T17:55:12Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5179",
+  "author": "andlabs",
+  "comments": 6,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 5181,
+  "title": "Feature request: provide a way to find out if a built-in option is available OR don't error out if one isn't",
+  "createdAt": "2019-03-30T18:53:09Z",
+  "updatedAt": "2019-03-30T18:53:09Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5181",
+  "author": "andlabs",
+  "comments": 0,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 5192,
+  "title": "Allow providing pkg-config dependencies without pkg-config",
+  "createdAt": "2019-04-01T14:15:23Z",
+  "updatedAt": "2019-11-12T22:25:27Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5192",
+  "author": "ocrete",
+  "comments": 3,
+  "reactions": 0,
+  "labels": [
+   "enhancement"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 5199,
+  "title": "Visual Studio makefile project type+ninja",
+  "createdAt": "2019-04-02T17:21:19Z",
+  "updatedAt": "2019-04-02T17:21:19Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5199",
+  "author": "dkrikun",
+  "comments": 0,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 5201,
+  "title": "[FEATURE] Import file lists from other buildsystems",
+  "createdAt": "2019-04-02T19:02:56Z",
+  "updatedAt": "2019-04-07T22:31:38Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5201",
+  "author": "LRN",
+  "comments": 5,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 5216,
+  "title": "LLVM update breaks meson build",
+  "createdAt": "2019-04-04T18:24:53Z",
+  "updatedAt": "2019-04-16T16:08:25Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5216",
+  "author": "1ace",
+  "comments": 3,
+  "reactions": 0,
+  "labels": [
+   "dependencies"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 5223,
+  "title": "Add warnings when environment variables change and wont be honored",
+  "createdAt": "2019-04-05T17:44:16Z",
+  "updatedAt": "2020-02-28T14:39:12Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5223",
+  "author": "dcbaker",
+  "comments": 2,
+  "reactions": 1,
+  "labels": [
+   "enhancement"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 5238,
+  "title": "meson configuration test prints don't identify native/target ",
+  "createdAt": "2019-04-09T19:51:22Z",
+  "updatedAt": "2019-04-11T16:45:56Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5238",
+  "author": "codyps",
+  "comments": 0,
+  "reactions": 0,
+  "labels": [
+   "enhancement"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 5240,
+  "title": "run_command error with compiler object",
+  "createdAt": "2019-04-09T21:42:09Z",
+  "updatedAt": "2019-04-09T21:42:09Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5240",
+  "author": "jml1795",
+  "comments": 0,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 5242,
+  "title": "gnome.gtkdoc: Wrong escape characters in scan args",
+  "createdAt": "2019-04-10T07:29:33Z",
+  "updatedAt": "2019-04-10T07:29:33Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5242",
+  "author": "inigomartinez",
+  "comments": 0,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 5244,
+  "title": "[Docs] Missing description of `--setup` arg for `meson test`",
+  "createdAt": "2019-04-11T11:03:54Z",
+  "updatedAt": "2024-05-08T15:15:33Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5244",
+  "author": "TheQwertiest",
+  "comments": 0,
+  "reactions": 0,
+  "labels": [
+   "documentation"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 5246,
+  "title": "Meson configuration of DXVK winelib build, with CC / CXX environment variables prepended, works for 64-bit build, but fails for 32-bit build. Without, the inverse happens.",
+  "createdAt": "2019-04-11T15:35:58Z",
+  "updatedAt": "2020-04-13T23:46:05Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5246",
+  "author": "Valmar33",
+  "comments": 20,
+  "reactions": 0,
+  "labels": [
+   "regression"
+  ],
+  "milestone": "0.51.0"
+ },
+ {
+  "number": 5251,
+  "title": "Add support for LLVM/clang when using b_pgo",
+  "createdAt": "2019-04-12T16:04:51Z",
+  "updatedAt": "2026-02-27T11:20:11Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5251",
+  "author": "tpgxyz",
+  "comments": 3,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 5269,
+  "title": "Store objects in target introspection",
+  "createdAt": "2019-04-16T10:25:56Z",
+  "updatedAt": "2020-08-17T16:06:49Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5269",
+  "author": "bonzini",
+  "comments": 1,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 5270,
+  "title": "RFE: native support for const objects",
+  "createdAt": "2019-04-16T16:05:04Z",
+  "updatedAt": "2021-09-26T20:07:22Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5270",
+  "author": "robEllenberg",
+  "comments": 8,
+  "reactions": 1,
+  "labels": [
+   "enhancement",
+   "parser/interpreter"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 5280,
+  "title": "Vala: unity build should merge Vala code, not C code",
+  "createdAt": "2019-04-17T23:54:38Z",
+  "updatedAt": "2021-02-05T00:02:00Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5280",
+  "author": "rilian-la-te",
+  "comments": 2,
+  "reactions": 1,
+  "labels": [
+   "bug",
+   "language:vala"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 5290,
+  "title": "Certain CFLAGS can prevent framework dependency detection",
+  "createdAt": "2019-04-20T12:34:57Z",
+  "updatedAt": "2019-06-05T11:12:05Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5290",
+  "author": "jon-turney",
+  "comments": 5,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 5301,
+  "title": "Problem with VS2019 Preview project generation (0.50.1 version)",
+  "createdAt": "2019-04-22T11:35:31Z",
+  "updatedAt": "2019-05-14T05:08:20Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5301",
+  "author": "XVilka",
+  "comments": 1,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 5313,
+  "title": "PKG_CONFIG_PATH meson ... doesn't affect cross compilation in 0.51",
+  "createdAt": "2019-04-23T19:53:58Z",
+  "updatedAt": "2019-06-06T23:42:54Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5313",
+  "author": "dcbaker",
+  "comments": 1,
+  "reactions": 0,
+  "labels": [
+   "regression"
+  ],
+  "milestone": "0.51.0"
+ },
+ {
+  "number": 5320,
+  "title": "Make auto_features a per-subproject built-in option",
+  "createdAt": "2019-04-25T15:48:46Z",
+  "updatedAt": "2022-03-02T02:25:38Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5320",
+  "author": "emersion",
+  "comments": 3,
+  "reactions": 1,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 5328,
+  "title": "Logging of environment variables in testlog.txt",
+  "createdAt": "2019-04-29T13:41:41Z",
+  "updatedAt": "2024-10-05T19:21:48Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5328",
+  "author": "fiesh",
+  "comments": 2,
+  "reactions": 1,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 5333,
+  "title": "meson introspect --targets has no linker information",
+  "createdAt": "2019-04-30T00:22:21Z",
+  "updatedAt": "2022-11-24T14:53:57Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5333",
+  "author": "nornagon",
+  "comments": 2,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 5335,
+  "title": "DYLD_FALLBACK_LIBRARY_PATH not propagated to post_inst/run_target scripts",
+  "createdAt": "2019-04-30T11:05:43Z",
+  "updatedAt": "2019-04-30T12:47:33Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5335",
+  "author": "nacho",
+  "comments": 3,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 5343,
+  "title": "Building static library chain fails (modified test cases/common/43 library chain)",
+  "createdAt": "2019-05-01T20:31:15Z",
+  "updatedAt": "2019-05-06T20:36:28Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5343",
+  "author": "pseiderer",
+  "comments": 0,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 5352,
+  "title": "C sharp missing library finding support",
+  "createdAt": "2019-05-03T07:18:47Z",
+  "updatedAt": "2019-09-25T07:13:09Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5352",
+  "author": "inigomartinez",
+  "comments": 2,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 5353,
+  "title": "compile_args doesn't work with C sharp",
+  "createdAt": "2019-05-03T07:21:06Z",
+  "updatedAt": "2020-02-23T03:58:21Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5353",
+  "author": "inigomartinez",
+  "comments": 0,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 5354,
+  "title": "extract_all_objects does not work with C sharp executables",
+  "createdAt": "2019-05-03T08:17:54Z",
+  "updatedAt": "2019-05-03T08:17:54Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5354",
+  "author": "inigomartinez",
+  "comments": 0,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 5355,
+  "title": "compiler.get_supported_arguments reports success for unsupported flags",
+  "createdAt": "2019-05-03T11:09:38Z",
+  "updatedAt": "2025-04-11T11:13:05Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5355",
+  "author": "jtm94",
+  "comments": 5,
+  "reactions": 0,
+  "labels": [
+   "bug",
+   "compilers",
+   "good first issue"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 5356,
+  "title": "Add files as resources in C Sharp targets",
+  "createdAt": "2019-05-03T11:45:08Z",
+  "updatedAt": "2019-05-03T11:45:08Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5356",
+  "author": "inigomartinez",
+  "comments": 0,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 5363,
+  "title": "Cross compilation and complex build setups",
+  "createdAt": "2019-05-05T17:39:32Z",
+  "updatedAt": "2019-06-12T14:57:42Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5363",
+  "author": "jpakkane",
+  "comments": 2,
+  "reactions": 3,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 5364,
+  "title": "feature option can't be set to auto when auto_features is set",
+  "createdAt": "2019-05-05T18:28:19Z",
+  "updatedAt": "2019-05-09T18:46:46Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5364",
+  "author": "lazka",
+  "comments": 1,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 5366,
+  "title": "Unit test fails on ubuntu disco & bionic (test_build_rpath | test_rpath_uses_ORIGIN)",
+  "createdAt": "2019-05-05T20:42:49Z",
+  "updatedAt": "2019-05-06T20:43:41Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5366",
+  "author": "SolarLiner",
+  "comments": 3,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 5368,
+  "title": "LLVM library search picks up old versions of LLVM",
+  "createdAt": "2019-05-07T08:40:27Z",
+  "updatedAt": "2019-05-07T18:11:49Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5368",
+  "author": "cwabbott0",
+  "comments": 2,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 5370,
+  "title": "LLVM dependency: versioning broken, LLVM 7 cannot be found due to llvm-config",
+  "createdAt": "2019-05-07T15:38:16Z",
+  "updatedAt": "2019-05-08T23:26:30Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5370",
+  "author": "gerion0",
+  "comments": 6,
+  "reactions": 0,
+  "labels": [
+   "bug",
+   "dependencies"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 5374,
+  "title": "How to install Fortran .mod files?",
+  "createdAt": "2019-05-09T09:49:25Z",
+  "updatedAt": "2021-05-01T18:11:09Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5374",
+  "author": "tschoonj",
+  "comments": 6,
+  "reactions": 0,
+  "labels": [
+   "install targets",
+   "language:fortran"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 5390,
+  "title": "no libdl nor librt on OpenBSD",
+  "createdAt": "2019-05-12T22:45:14Z",
+  "updatedAt": "2022-06-07T22:09:00Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5390",
+  "author": "ajacoutot",
+  "comments": 4,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 5398,
+  "title": "generate_gir() should accept a File object to its header argument",
+  "createdAt": "2019-05-16T11:21:17Z",
+  "updatedAt": "2019-05-16T11:21:17Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5398",
+  "author": "pwithnall",
+  "comments": 0,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 5404,
+  "title": "Feature request: test compilation failure",
+  "createdAt": "2019-05-18T10:49:17Z",
+  "updatedAt": "2019-05-18T10:49:17Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5404",
+  "author": "etam",
+  "comments": 0,
+  "reactions": 3,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 5406,
+  "title": "Support generic POSIX C compiler",
+  "createdAt": "2019-05-18T23:57:40Z",
+  "updatedAt": "2025-06-10T01:05:34Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5406",
+  "author": "michaelforney",
+  "comments": 16,
+  "reactions": 20,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 5408,
+  "title": "Feature request: call system command during run(code)",
+  "createdAt": "2019-05-20T09:41:02Z",
+  "updatedAt": "2026-02-27T12:22:42Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5408",
+  "author": "ueno",
+  "comments": 2,
+  "reactions": 0,
+  "labels": [
+   "enhancement",
+   "compilers"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 5411,
+  "title": "Need built-in option for source character set specifier",
+  "createdAt": "2019-05-21T00:28:35Z",
+  "updatedAt": "2019-05-23T05:32:48Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5411",
+  "author": "seungha-yang",
+  "comments": 4,
+  "reactions": 0,
+  "labels": [
+   "OS:windows"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 5413,
+  "title": "dependency injection",
+  "createdAt": "2019-05-22T17:17:34Z",
+  "updatedAt": "2019-05-25T00:22:03Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5413",
+  "author": "rhd",
+  "comments": 2,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 5415,
+  "title": "vala compiler --pkg includes more than necessary",
+  "createdAt": "2019-05-23T01:04:08Z",
+  "updatedAt": "2019-07-04T23:01:33Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5415",
+  "author": "chergert",
+  "comments": 1,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 5429,
+  "title": "How to suppress messages from `cxx.get_supported_arguments( )`",
+  "createdAt": "2019-05-28T15:13:27Z",
+  "updatedAt": "2019-05-28T15:13:27Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5429",
+  "author": "bredelings",
+  "comments": 0,
+  "reactions": 3,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 5431,
+  "title": "Ninja still have work to do after call without parameters in case I use Qt MOC",
+  "createdAt": "2019-05-29T13:48:57Z",
+  "updatedAt": "2019-05-30T23:12:57Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5431",
+  "author": "kirushyk",
+  "comments": 2,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 5433,
+  "title": "Add support for Kotlin",
+  "createdAt": "2019-05-29T17:39:16Z",
+  "updatedAt": "2021-01-09T21:58:30Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5433",
+  "author": "squidfarts",
+  "comments": 2,
+  "reactions": 10,
+  "labels": [
+   "enhancement"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 5438,
+  "title": "Built-in Boost dependency takes precedence over explicitly provided pkg-config dependency",
+  "createdAt": "2019-05-31T21:35:21Z",
+  "updatedAt": "2021-08-10T03:35:26Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5438",
+  "author": "agurtovoy",
+  "comments": 48,
+  "reactions": 3,
+  "labels": [
+   "boost"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 5443,
+  "title": "meson test: gdb doesn’t support -nh argument on FreeBSD 11",
+  "createdAt": "2019-06-03T16:59:30Z",
+  "updatedAt": "2019-06-04T16:47:33Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5443",
+  "author": "pwithnall",
+  "comments": 0,
+  "reactions": 0,
+  "labels": [
+   "bug",
+   "OS:*BSD"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 5445,
+  "title": "vala: what if C file depends on the package header generated by --header flag",
+  "createdAt": "2019-06-05T06:13:35Z",
+  "updatedAt": "2019-12-21T11:43:26Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5445",
+  "author": "krokoziabla",
+  "comments": 2,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 5455,
+  "title": "Support for \"autolink\" dependencies",
+  "createdAt": "2019-06-06T21:49:45Z",
+  "updatedAt": "2025-03-27T02:41:13Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5455",
+  "author": "agurtovoy",
+  "comments": 3,
+  "reactions": 0,
+  "labels": [
+   "OS:windows"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 5461,
+  "title": "no ninja dependency created for .def files",
+  "createdAt": "2019-06-07T18:22:57Z",
+  "updatedAt": "2019-06-07T18:22:57Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5461",
+  "author": "dcbaker",
+  "comments": 0,
+  "reactions": 0,
+  "labels": [
+   "bug",
+   "OS:windows"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 5462,
+  "title": "vs_module_defs should except empty list orempty string",
+  "createdAt": "2019-06-07T19:03:38Z",
+  "updatedAt": "2019-06-07T19:03:38Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5462",
+  "author": "dcbaker",
+  "comments": 0,
+  "reactions": 0,
+  "labels": [
+   "bug",
+   "OS:windows"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 5471,
+  "title": "Add support for more JVM languages.",
+  "createdAt": "2019-06-10T20:36:44Z",
+  "updatedAt": "2021-02-09T23:35:54Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5471",
+  "author": "squidfarts",
+  "comments": 16,
+  "reactions": 2,
+  "labels": [
+   "enhancement",
+   "language:java"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 5479,
+  "title": "Incorrect pkg-config file generated",
+  "createdAt": "2019-06-12T12:08:12Z",
+  "updatedAt": "2023-05-29T03:41:14Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5479",
+  "author": "ePirat",
+  "comments": 8,
+  "reactions": 0,
+  "labels": [
+   "module:pkgconfig"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 5488,
+  "title": "pkgconfig.generate() produces different files the second time",
+  "createdAt": "2019-06-13T21:28:33Z",
+  "updatedAt": "2023-05-29T03:40:55Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5488",
+  "author": "lazka",
+  "comments": 4,
+  "reactions": 0,
+  "labels": [
+   "module:pkgconfig"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 5493,
+  "title": "Use lowercase name as default for filebase in pkgconfig.generate()",
+  "createdAt": "2019-06-16T16:45:09Z",
+  "updatedAt": "2023-05-29T03:40:10Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5493",
+  "author": "ebassi",
+  "comments": 0,
+  "reactions": 0,
+  "labels": [
+   "module:pkgconfig"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 5511,
+  "title": "Names of custom_target’s collide in i18n.merge_file",
+  "createdAt": "2019-06-19T18:06:23Z",
+  "updatedAt": "2021-08-26T22:48:44Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5511",
+  "author": "worldofpeace",
+  "comments": 0,
+  "reactions": 0,
+  "labels": [
+   "module:i18n"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 5551,
+  "title": "d test sample broken",
+  "createdAt": "2019-06-24T14:02:18Z",
+  "updatedAt": "2019-07-17T16:25:05Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5551",
+  "author": "f8chicken",
+  "comments": 1,
+  "reactions": 0,
+  "labels": [
+   "language:D"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 5557,
+  "title": "a duplicate target detected when the name_prefix keyword is used",
+  "createdAt": "2019-06-25T18:06:34Z",
+  "updatedAt": "2019-06-26T06:51:26Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5557",
+  "author": "andy5995",
+  "comments": 3,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 5561,
+  "title": "run_target doc should provide examples",
+  "createdAt": "2019-06-26T11:05:29Z",
+  "updatedAt": "2025-11-04T16:54:36Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5561",
+  "author": "dabrain34",
+  "comments": 2,
+  "reactions": 0,
+  "labels": [
+   "documentation"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 5599,
+  "title": "gnome.gtkdoc overwrite files at install",
+  "createdAt": "2019-07-04T01:43:14Z",
+  "updatedAt": "2019-07-04T01:43:14Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5599",
+  "author": "renatoGarcia",
+  "comments": 0,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 5603,
+  "title": "Add compiler that is not a linker to meson",
+  "createdAt": "2019-07-04T23:15:18Z",
+  "updatedAt": "2019-07-04T23:15:18Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5603",
+  "author": "ePirat",
+  "comments": 0,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 5609,
+  "title": "Trying to override 'subproject_dir' and got an error.",
+  "createdAt": "2019-07-06T03:58:28Z",
+  "updatedAt": "2019-07-06T03:58:28Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5609",
+  "author": "squidfarts",
+  "comments": 0,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 5610,
+  "title": "Add support for Gradle via a module.",
+  "createdAt": "2019-07-06T14:47:08Z",
+  "updatedAt": "2019-07-06T14:47:08Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5610",
+  "author": "squidfarts",
+  "comments": 0,
+  "reactions": 2,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 5628,
+  "title": "False positives in clang-cl for stpcpy(), strcasecmp() and strncasecmp()",
+  "createdAt": "2019-07-10T03:06:48Z",
+  "updatedAt": "2025-02-14T20:49:33Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5628",
+  "author": "fanc999",
+  "comments": 7,
+  "reactions": 0,
+  "labels": [
+   "compilers",
+   "OS:windows"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 5635,
+  "title": "vs backend: run_target() dependencies doesn't seems to be built",
+  "createdAt": "2019-07-11T13:07:16Z",
+  "updatedAt": "2019-07-11T13:07:16Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5635",
+  "author": "xclaesse",
+  "comments": 0,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 5636,
+  "title": "CMake seems to find the oldest version of LLVM by default",
+  "createdAt": "2019-07-11T15:30:53Z",
+  "updatedAt": "2019-07-17T16:26:45Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5636",
+  "author": "lantw44",
+  "comments": 3,
+  "reactions": 0,
+  "labels": [
+   "dependency:cmake"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 5648,
+  "title": "Error C2859 on MSVC when using PCH",
+  "createdAt": "2019-07-13T12:18:50Z",
+  "updatedAt": "2019-07-13T12:20:39Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5648",
+  "author": "zhiayang",
+  "comments": 0,
+  "reactions": 2,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 5655,
+  "title": "Add a way to make unrecognized options a fatal error",
+  "createdAt": "2019-07-15T08:53:24Z",
+  "updatedAt": "2020-08-10T20:16:19Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5655",
+  "author": "emersion",
+  "comments": 2,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 5686,
+  "title": "[Docs] Missing description for --native-file",
+  "createdAt": "2019-07-19T10:15:27Z",
+  "updatedAt": "2020-08-10T20:21:38Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5686",
+  "author": "TheQwertiest",
+  "comments": 1,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 5688,
+  "title": "Improve interaction between optional auto-feature subprojects with auto-feature options",
+  "createdAt": "2019-07-19T16:22:35Z",
+  "updatedAt": "2019-07-20T11:39:00Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5688",
+  "author": "nirbheek",
+  "comments": 4,
+  "reactions": 0,
+  "labels": [
+   "subprojects/wraps",
+   "options"
+  ],
+  "milestone": null
+ },
+ {
+  "number": 5696,
+  "title": "Meson 0.51.999 test file with time out error.",
+  "createdAt": "2019-07-21T18:20:44Z",
+  "updatedAt": "2019-07-21T20:18:38Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5696",
+  "author": "squidfarts",
+  "comments": 2,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 5709,
+  "title": "jar targets can't link against preexisting jars (e.g., android.jar)",
+  "createdAt": "2019-07-24T19:23:01Z",
+  "updatedAt": "2019-07-27T21:25:39Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5709",
+  "author": "mikezackles",
+  "comments": 1,
+  "reactions": 1,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 5716,
+  "title": "ninja scan-build ignores compiler setting",
+  "createdAt": "2019-07-25T19:59:48Z",
+  "updatedAt": "2025-09-23T09:27:18Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5716",
+  "author": "randy408",
+  "comments": 3,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 5721,
+  "title": "Default output folder set but no rule gets created for output",
+  "createdAt": "2019-07-26T14:39:20Z",
+  "updatedAt": "2019-07-27T18:20:15Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5721",
+  "author": "abrykajlo",
+  "comments": 2,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 5723,
+  "title": "Specifying Language with Internal Dependencies",
+  "createdAt": "2019-07-26T18:09:42Z",
+  "updatedAt": "2026-05-27T17:00:58Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5723",
+  "author": "phillipjohnston",
+  "comments": 8,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ },
+ {
+  "number": 5729,
+  "title": "Generated header/source tree header conflict with subprojects",
+  "createdAt": "2019-07-27T20:18:10Z",
+  "updatedAt": "2019-07-27T20:20:32Z",
+  "url": "https://github.com/mesonbuild/meson/issues/5729",
+  "author": "randy408",
+  "comments": 0,
+  "reactions": 0,
+  "labels": [],
+  "milestone": null
+ }
+]

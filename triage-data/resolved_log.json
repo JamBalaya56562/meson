@@ -1,0 +1,522 @@
+[
+ {
+  "number": 1578,
+  "status": "クローズ済み",
+  "closed": true,
+  "comment_url": "https://github.com/mesonbuild/meson/issues/1578#issuecomment-4885563033",
+  "date": "2026-07-05",
+  "note": "machine method返り値はReference-tablesに文書化済み。コメント投稿後maintainerがclose"
+ },
+ {
+  "number": 1973,
+  "status": "クローズ済み",
+  "closed": true,
+  "comment_url": "https://github.com/mesonbuild/meson/issues/1973#issuecomment-4885763411",
+  "date": "2026-07-05",
+  "note": "MSVC cpp_std → /std:c++NN にマップ(VC_VERSION_MAP, PR#2836)。クローズ提案（コメント投稿後 maintainerがclose）"
+ },
+ {
+  "number": 2124,
+  "status": "クローズ済み",
+  "closed": true,
+  "comment_url": "https://github.com/mesonbuild/meson/issues/2124#issuecomment-4885763572",
+  "date": "2026-07-05",
+  "note": "include_directories が listify で複数/ネスト指定可。旧エラー解消。クローズ提案（コメント投稿後 maintainerがclose）"
+ },
+ {
+  "number": 2240,
+  "status": "クローズ済み",
+  "closed": true,
+  "comment_url": "https://github.com/mesonbuild/meson/issues/2240#issuecomment-4885763728",
+  "date": "2026-07-05",
+  "note": "vcstagger stderr=DEVNULL + 既定 git describe --always。クローズ提案（コメント投稿後 maintainerがclose）"
+ },
+ {
+  "number": 3305,
+  "status": "クローズ済み",
+  "closed": true,
+  "comment_url": "https://github.com/mesonbuild/meson/issues/3305#issuecomment-4886076170",
+  "date": "2026-07-05",
+  "note": "werror: kwarg(1.3.0)でコンパイラチェックのwarnings-as-errorsに対応。クローズ提案"
+ },
+ {
+  "number": 3439,
+  "status": "クローズ済み",
+  "closed": true,
+  "comment_url": "https://github.com/mesonbuild/meson/issues/3439#issuecomment-4886076249",
+  "date": "2026-07-05",
+  "note": "@DIRNAME@/@GLOBAL_SOURCE_ROOT@トークン(1.3.0)でcross file相対バイナリに対応。クローズ提案"
+ },
+ {
+  "number": 5655,
+  "status": "クローズ済み",
+  "closed": true,
+  "comment_url": "https://github.com/mesonbuild/meson/issues/5655#issuecomment-4886076356",
+  "date": "2026-07-05",
+  "note": "未知-DオプションがUnknown optionsで既定エラー(msetup.py)。クローズ提案"
+ },
+ {
+  "number": 5199,
+  "status": "クローズ済み",
+  "closed": true,
+  "comment_url": "https://github.com/mesonbuild/meson/issues/5199#issuecomment-4886279709",
+  "date": "2026-07-05",
+  "note": "--genvslite(1.2.0, PR#11049 導入コミット36bf53bd)でVS+ninjaに対応。RN+コミット+コード明示。クローズ提案"
+ },
+ {
+  "number": 5603,
+  "status": "クローズ済み",
+  "closed": true,
+  "comment_url": "https://github.com/mesonbuild/meson/issues/5603#issuecomment-4886279785",
+  "date": "2026-07-05",
+  "note": "nasm/masm言語(0.64.0 New languages)でcompiler-not-linkerに対応。RN+コード明示(コミットは版ズレのため非掲載)。クローズ提案"
+ },
+ {
+  "number": 6810,
+  "status": "コメント投稿済み(クローズ提案中)",
+  "closed": false,
+  "comment_url": "https://github.com/mesonbuild/meson/issues/6810#issuecomment-4891835043",
+  "date": "2026-07-06",
+  "note": "TAP UnknownLineを警告扱い(PR#8029, commit a8c138eb)。RN/コミット引用付き。クローズ提案"
+ },
+ {
+  "number": 8184,
+  "status": "クローズ済み",
+  "closed": true,
+  "comment_url": "https://github.com/mesonbuild/meson/issues/8184#issuecomment-4891835257",
+  "date": "2026-07-06",
+  "note": "vcs_tag が find_program 等を受理(FeatureNew 0.62/0.63, commit 39dd1ff9)。クローズ提案"
+ },
+ {
+  "number": 9064,
+  "status": "クローズ済み",
+  "closed": true,
+  "comment_url": "https://github.com/mesonbuild/meson/issues/9064#issuecomment-4891835500",
+  "date": "2026-07-06",
+  "note": "wrap-redirectエラーにfilename明記(commit 4146c447)。クローズ提案"
+ },
+ {
+  "number": 9111,
+  "status": "クローズ済み",
+  "closed": true,
+  "comment_url": "https://github.com/mesonbuild/meson/issues/9111#issuecomment-4891835735",
+  "date": "2026-07-06",
+  "note": "Rust baremetal sanity check(#![no_std], commit 1aac6cc1)。クローズ提案"
+ },
+ {
+  "number": 9683,
+  "status": "クローズ済み",
+  "closed": true,
+  "comment_url": "https://github.com/mesonbuild/meson/issues/9683#issuecomment-4891835966",
+  "date": "2026-07-06",
+  "note": "qt.qml_module(1.7, commit 4508622a, Fixes:#9683明記)。クローズ提案"
+ },
+ {
+  "number": 5845,
+  "status": "クローズ済み",
+  "closed": true,
+  "comment_url": "https://github.com/mesonbuild/meson/issues/5845#issuecomment-4898363531",
+  "date": "2026-07-06",
+  "note": "b_sanitize×clang-cl(/clang:-fsanitize, commit d0ca9be2)。クローズ提案"
+ },
+ {
+  "number": 6350,
+  "status": "クローズ済み",
+  "closed": true,
+  "comment_url": "https://github.com/mesonbuild/meson/issues/6350#issuecomment-4898363669",
+  "date": "2026-07-06",
+  "note": "XC16/C2000 toolchain(commit 74602928)。クローズ提案"
+ },
+ {
+  "number": 7331,
+  "status": "クローズ済み",
+  "closed": true,
+  "comment_url": "https://github.com/mesonbuild/meson/issues/7331#issuecomment-4898363795",
+  "date": "2026-07-06",
+  "note": "install_rpath空でRUNPATH文字列クリア(commit 78ffa539)。クローズ提案"
+ },
+ {
+  "number": 9391,
+  "status": "クローズ済み",
+  "closed": true,
+  "comment_url": "https://github.com/mesonbuild/meson/issues/9391#issuecomment-4898363956",
+  "date": "2026-07-06",
+  "note": "hotdoc --fatal-warnings(commit 7912901)。クローズ提案"
+ },
+ {
+  "number": 6888,
+  "status": "クローズ済み",
+  "closed": true,
+  "comment_url": "https://github.com/mesonbuild/meson/issues/6888#issuecomment-4898364069",
+  "date": "2026-07-06",
+  "note": "cross fileで@GLOBAL_SOURCE_ROOT@/@DIRNAME@(RN 1.3.0)。クローズ提案"
+ },
+ {
+  "number": 10029,
+  "status": "クローズ済み",
+  "closed": true,
+  "comment_url": "https://github.com/mesonbuild/meson/issues/10029#issuecomment-4902050308",
+  "date": "2026-07-06",
+  "note": "MSVC /Z7 debug (ccache対応, commit c3ea8d5a)。丁寧版+コード抜粋。クローズ提案"
+ },
+ {
+  "number": 13095,
+  "status": "クローズ済み",
+  "closed": true,
+  "comment_url": "https://github.com/mesonbuild/meson/issues/13095#issuecomment-4902050511",
+  "date": "2026-07-06",
+  "note": "clang-cl+lld-link で b_lto (commit 18427adb)。クローズ提案"
+ },
+ {
+  "number": 13539,
+  "status": "クローズ済み",
+  "closed": true,
+  "comment_url": "https://github.com/mesonbuild/meson/issues/13539#issuecomment-4902050766",
+  "date": "2026-07-06",
+  "note": "library dependencies に dict → 例外でなくクリーンエラー(実機確認)。クローズ提案"
+ },
+ {
+  "number": 13371,
+  "status": "コメント投稿済み(クローズ提案中)",
+  "closed": false,
+  "comment_url": "https://github.com/mesonbuild/meson/issues/13371#issuecomment-4902050984",
+  "date": "2026-07-06",
+  "note": "Rust PGO (commit e9c6262d/be0a3448)。クローズ提案"
+ },
+ {
+  "number": 10861,
+  "status": "クローズ済み",
+  "closed": true,
+  "comment_url": "https://github.com/mesonbuild/meson/issues/10861#issuecomment-4902051214",
+  "date": "2026-07-06",
+  "note": "introspect --buildoptions を build dir無しで (RN 0.50.0)。クローズ提案"
+ },
+ {
+  "number": 11900,
+  "status": "クローズ済み",
+  "closed": true,
+  "comment_url": "https://github.com/mesonbuild/meson/issues/11900#issuecomment-4902111685",
+  "date": "2026-07-06",
+  "note": "MSVC C++ modules VSCMD_VER空でクラッシュ修正(commit 5d590c8d)。丁寧+コード抜粋。クローズ提案"
+ },
+ {
+  "number": 12034,
+  "status": "クローズ済み",
+  "closed": true,
+  "comment_url": "https://github.com/mesonbuild/meson/issues/12034#issuecomment-4902111951",
+  "date": "2026-07-06",
+  "note": "xcode AppleFrameworks AttributeError修正(commit 665275a7)。クローズ提案"
+ },
+ {
+  "number": 13325,
+  "status": "クローズ済み",
+  "closed": true,
+  "comment_url": "https://github.com/mesonbuild/meson/issues/13325#issuecomment-4902112246",
+  "date": "2026-07-06",
+  "note": "unity-size/python.bytecompile の--help既定値表示改善(commit 386cbe3d)。クローズ提案"
+ },
+ {
+  "number": 13332,
+  "status": "クローズ済み",
+  "closed": true,
+  "comment_url": "https://github.com/mesonbuild/meson/issues/13332#issuecomment-4902112521",
+  "date": "2026-07-06",
+  "note": "capture:true時にstderrを端末へ転送(commit c5618e3f)。クローズ提案"
+ },
+ {
+  "number": 15033,
+  "status": "クローズ済み",
+  "closed": true,
+  "comment_url": "https://github.com/mesonbuild/meson/issues/15033#issuecomment-4902112877",
+  "date": "2026-07-06",
+  "note": "非required MPI(MPICH)の引数取得修正(commit 04a2bc5a/37dc5a14)。retest依頼付き。クローズ提案"
+ },
+ {
+  "number": 6865,
+  "status": "クローズ済み",
+  "closed": true,
+  "comment_url": "https://github.com/mesonbuild/meson/issues/6865#issuecomment-4904140618",
+  "date": "2026-07-06",
+  "note": "has_exe_wrapper→can_run_host_binaries(0.55.0, _can_run_host_binaries_impl)。裏どり済。クローズ提案"
+ },
+ {
+  "number": 11389,
+  "status": "クローズ済み",
+  "closed": true,
+  "comment_url": "https://github.com/mesonbuild/meson/issues/11389#issuecomment-4904141305",
+  "date": "2026-07-06",
+  "note": "cython指定でC言語自動有効化(1.11, FeatureNew)。裏どり済。クローズ提案"
+ },
+ {
+  "number": 6919,
+  "status": "クローズ済み",
+  "closed": true,
+  "comment_url": "https://github.com/mesonbuild/meson/issues/6919#issuecomment-4904141644",
+  "date": "2026-07-06",
+  "note": "run_targetのmeson-接頭辞除去(build_run_target_name)。裏どり済。クローズ提案"
+ },
+ {
+  "number": 8519,
+  "status": "クローズ済み",
+  "closed": true,
+  "comment_url": "https://github.com/mesonbuild/meson/issues/8519#issuecomment-4904142100",
+  "date": "2026-07-06",
+  "note": "重複ターゲット名でInvalidCode(assertでなく)。裏どり済。クローズ提案"
+ },
+ {
+  "number": 6925,
+  "status": "クローズ済み",
+  "closed": true,
+  "comment_url": "https://github.com/mesonbuild/meson/issues/6925#issuecomment-4904142436",
+  "date": "2026-07-06",
+  "note": "machine file parserのeval撤廃(mparser+_evaluate_statement, eval 0件)。裏どり済。クローズ提案"
+ },
+ {
+  "number": 7091,
+  "status": "コメント投稿済み(クローズ提案中)",
+  "closed": false,
+  "comment_url": "https://github.com/mesonbuild/meson/issues/7091#issuecomment-4904235648",
+  "date": "2026-07-06",
+  "note": "cross sizeof/alignmentがstddef.hのみ(stdio.h不要, _cross_sizeof)。裏どり済。クローズ提案"
+ },
+ {
+  "number": 8338,
+  "status": "クローズ済み",
+  "closed": true,
+  "comment_url": "https://github.com/mesonbuild/meson/issues/8338#issuecomment-4904236017",
+  "date": "2026-07-06",
+  "note": "ifort OneAPI検出(Intel(R) Fortran も一致, detect.py:809)。裏どり済。クローズ提案"
+ },
+ {
+  "number": 6839,
+  "status": "クローズ済み",
+  "closed": true,
+  "comment_url": "https://github.com/mesonbuild/meson/issues/6839#issuecomment-4904236336",
+  "date": "2026-07-06",
+  "note": "リンカ検出にget_external_link_args(linkers/detect.py:56,131)。裏どり済。クローズ提案"
+ },
+ {
+  "number": 7540,
+  "status": "コメント投稿済み(クローズ提案中)",
+  "closed": false,
+  "comment_url": "https://github.com/mesonbuild/meson/issues/7540#issuecomment-4904236705",
+  "date": "2026-07-06",
+  "note": "--wrapper×add_test_setup衝突はexe_wrapper有時のみ(mtest.py:1802-1804)。裏どり済。クローズ提案"
+ },
+ {
+  "number": 10955,
+  "status": "クローズ済み",
+  "closed": true,
+  "comment_url": "https://github.com/mesonbuild/meson/issues/10955#issuecomment-4904237035",
+  "date": "2026-07-06",
+  "note": "qt compile_moc に preserve_paths(1.4.0)。裏どり済。クローズ提案"
+ },
+ {
+  "number": 6709,
+  "status": "クローズ済み",
+  "closed": true,
+  "comment_url": "https://github.com/mesonbuild/meson/issues/6709#issuecomment-4913450393",
+  "date": "2026-07-06",
+  "note": "b_vscrtがsanity checkに適用(_get_basic_compiler_args)。裏どり済。クローズ提案"
+ },
+ {
+  "number": 8772,
+  "status": "クローズ済み",
+  "closed": true,
+  "comment_url": "https://github.com/mesonbuild/meson/issues/8772#issuecomment-4913450683",
+  "date": "2026-07-06",
+  "note": "check_header の include_dir が source+build両方に展開(abs_string_list)。裏どり済。クローズ提案"
+ },
+ {
+  "number": 7097,
+  "status": "クローズ済み",
+  "closed": true,
+  "comment_url": "https://github.com/mesonbuild/meson/issues/7097#issuecomment-4913450971",
+  "date": "2026-07-06",
+  "note": "install_subdirにfollow_symlinks(1.3.0, INSTALL_FOLLOW_SYMLINKS)。裏どり済。クローズ提案"
+ },
+ {
+  "number": 10708,
+  "status": "クローズ済み",
+  "closed": true,
+  "comment_url": "https://github.com/mesonbuild/meson/issues/10708#issuecomment-4913451248",
+  "date": "2026-07-06",
+  "note": "PythonExternalProgram AttributeError修正(cached_version init)。裏どり済。クローズ提案"
+ },
+ {
+  "number": 11796,
+  "status": "コメント投稿済み(クローズ提案中)",
+  "closed": false,
+  "comment_url": "https://github.com/mesonbuild/meson/issues/11796#issuecomment-4913451503",
+  "date": "2026-07-06",
+  "note": "meson.buildの空白規約+meson format(1.5.0, wide_colon既定False)。裏どり済。クローズ提案"
+ },
+ {
+  "number": 9403,
+  "status": "クローズ済み",
+  "closed": true,
+  "comment_url": "https://github.com/mesonbuild/meson/issues/9403#issuecomment-4913560618",
+  "date": "2026-07-06",
+  "note": "VS env activationが一意な一時.bat(NamedTemporaryFile)。並列競合解消。裏どり済。クローズ提案"
+ },
+ {
+  "number": 9500,
+  "status": "コメント訂正済み(未修正判明・close撤回)",
+  "closed": false,
+  "comment_url": "https://github.com/mesonbuild/meson/issues/9500#issuecomment-4913560848",
+  "date": "2026-07-06",
+  "note": "当初fixed判定は誤り。bonziniが『[[custom_tgt.[index]]]がリンク化されず生のまま』と指摘。真因は refman_links.py の正規表現が[a-zA-Z0-9_]のみ許容で演算子名[index]を弾くこと。コメントを訂正追記しclose撤回。Issueはopen維持"
+ },
+ {
+  "number": 7362,
+  "status": "クローズ済み",
+  "closed": true,
+  "comment_url": "https://github.com/mesonbuild/meson/issues/7362#issuecomment-4913561096",
+  "date": "2026-07-06",
+  "note": "find_programがWindowsでshebang解釈(_shebang_to_cmd)。裏どり済。クローズ提案"
+ },
+ {
+  "number": 14142,
+  "status": "クローズ済み",
+  "closed": true,
+  "comment_url": "https://github.com/mesonbuild/meson/issues/14142#issuecomment-4913561274",
+  "date": "2026-07-06",
+  "note": "dict の +/+= は0.48.0で実装済(MesonOperator.PLUS)。裏どり済。クローズ提案"
+ },
+ {
+  "number": 6446,
+  "status": "クローズ済み",
+  "closed": true,
+  "comment_url": "https://github.com/mesonbuild/meson/issues/6446#issuecomment-4913561503",
+  "date": "2026-07-06",
+  "note": "2020年のwrapdb v1一時障害→v2移行で陳腐化(wrap.py v2 URL)。裏どり済。クローズ提案"
+ },
+ {
+  "number": 9714,
+  "status": "クローズ済み",
+  "closed": true,
+  "comment_url": "https://github.com/mesonbuild/meson/issues/9714#issuecomment-4914308970",
+  "date": "2026-07-06",
+  "note": "PKG_CONFIG_PATHはenv.set(既定os.pathsep)で区切り、ハードコード:解消(core.py:107)。裏どり済。クローズ提案"
+ },
+ {
+  "number": 9233,
+  "status": "クローズ済み",
+  "closed": true,
+  "comment_url": "https://github.com/mesonbuild/meson/issues/9233#issuecomment-4914309169",
+  "date": "2026-07-06",
+  "note": "install_subdirにfollow_symlinks(1.3.0)。既定はfollow維持のためfalse指定要と正直に注記。裏どり済。クローズ提案"
+ },
+ {
+  "number": 10401,
+  "status": "コメント投稿済み(クローズ提案中)",
+  "closed": false,
+  "comment_url": "https://github.com/mesonbuild/meson/issues/10401#issuecomment-4914309329",
+  "date": "2026-07-06",
+  "note": "wine時WINEPATHを設定(meson_exe.py)+短絡/警告(commit 57909b53)。retest依頼。裏どり済。クローズ提案"
+ },
+ {
+  "number": 10406,
+  "status": "クローズ済み",
+  "closed": true,
+  "comment_url": "https://github.com/mesonbuild/meson/issues/10406#issuecomment-4914309509",
+  "date": "2026-07-06",
+  "note": "pyinstaller hookがdependencies.data収集(commit 7ceec99c)+macOS .pkg配布停止で陳腐化。裏どり済。クローズ提案"
+ },
+ {
+  "number": 13810,
+  "status": "コメント投稿済み(クローズ提案中)",
+  "closed": false,
+  "comment_url": "https://github.com/mesonbuild/meson/issues/13810#issuecomment-4914309745",
+  "date": "2026-07-06",
+  "note": "非required MPI(MPICH)引数取得修正(mpi.py -show-compile-info, commit 04a2bc5a)。retest依頼。裏どり済。クローズ提案"
+ },
+ {
+  "number": 4383,
+  "status": "現状説明コメント投稿済み(close提案せず)",
+  "closed": false,
+  "comment_url": "https://github.com/mesonbuild/meson/issues/4383#issuecomment-4914518331",
+  "date": "2026-07-06",
+  "note": "[revise/現状説明] 正解はimplicit_include_directories:false(元案include_type:'system'は誤り)。既定順序変更は別問題と明示。close提案せず"
+ },
+ {
+  "number": 2347,
+  "status": "現状説明コメント投稿済み(close提案せず)",
+  "closed": false,
+  "comment_url": "https://github.com/mesonbuild/meson/issues/2347#issuecomment-4914518566",
+  "date": "2026-07-06",
+  "note": "[revise/現状説明] docs/yaml→refmanでjson/vim/man自動生成(網羅)。ただし予約語一覧は別物と明示。close提案せず"
+ },
+ {
+  "number": 7944,
+  "status": "現状説明コメント投稿済み(close提案せず)",
+  "closed": false,
+  "comment_url": "https://github.com/mesonbuild/meson/issues/7944#issuecomment-4914518801",
+  "date": "2026-07-06",
+  "note": "[revise/現状説明] subsystem()(1.2.0)でApple OS区別。system()はdarwin維持と正確に注記。close提案せず"
+ },
+ {
+  "number": 3276,
+  "status": "現状説明コメント投稿済み(close提案せず)",
+  "closed": false,
+  "comment_url": "https://github.com/mesonbuild/meson/issues/3276#issuecomment-4914633452",
+  "date": "2026-07-06",
+  "note": "[revise/現状説明] 空リストメッセージ解消(0.55.0)/実失敗は非致命で表示継続。close提案せず"
+ },
+ {
+  "number": 3751,
+  "status": "現状説明コメント投稿済み(close提案せず)",
+  "closed": false,
+  "comment_url": "https://github.com/mesonbuild/meson/issues/3751#issuecomment-4914633742",
+  "date": "2026-07-06",
+  "note": "[revise/現状説明] CPU family警告は実装/system名検証は未実装(known_oses無し)。close提案せず"
+ },
+ {
+  "number": 4244,
+  "status": "現状説明コメント投稿済み(close提案せず)",
+  "closed": false,
+  "comment_url": "https://github.com/mesonbuild/meson/issues/4244#issuecomment-4914634052",
+  "date": "2026-07-06",
+  "note": "[revise/現状説明] pic:false(0.36.0)で回避可/自動化は未実装。close提案せず"
+ },
+ {
+  "number": 5168,
+  "status": "現状説明コメント投稿済み(close提案せず)",
+  "closed": false,
+  "comment_url": "https://github.com/mesonbuild/meson/issues/5168#issuecomment-4914634285",
+  "date": "2026-07-06",
+  "note": "[revise/現状説明] CMAKE_SIZEOF_VOID_P伝播済/vcpkg完全自動は非対応。close提案せず"
+ },
+ {
+  "number": 5411,
+  "status": "現状説明コメント投稿済み(close提案せず)",
+  "closed": false,
+  "comment_url": "https://github.com/mesonbuild/meson/issues/5411#issuecomment-4914634613",
+  "date": "2026-07-06",
+  "note": "[revise/現状説明] MSVC /utf-8既定(0.60.0)で実害解消/専用オプションは非採用。close提案せず"
+ },
+ {
+  "number": 7378,
+  "status": "現状説明コメント投稿済み(close提案せず)",
+  "closed": false,
+  "comment_url": "https://github.com/mesonbuild/meson/issues/7378#issuecomment-4914634893",
+  "date": "2026-07-06",
+  "note": "[revise/現状説明] namingscheme=platform(1.10.0)で.lib可/既定classicは据置。close提案せず"
+ },
+ {
+  "number": 9212,
+  "status": "現状説明コメント投稿済み(close提案せず)",
+  "closed": false,
+  "comment_url": "https://github.com/mesonbuild/meson/issues/9212#issuecomment-4914635344",
+  "date": "2026-07-06",
+  "note": "[revise/現状説明] @SOURCE_ROOT@は仕様どおり(command[0]はfind_program解決)/doc明記は未対応。close提案せず"
+ },
+ {
+  "number": 11165,
+  "status": "現状説明コメント投稿済み(close提案せず)",
+  "closed": false,
+  "comment_url": "https://github.com/mesonbuild/meson/issues/11165#issuecomment-4914635719",
+  "date": "2026-07-06",
+  "note": "[revise/現状説明] Apple ar検出でranlib -c(PR#11742,1.2.0)。ほぼ完全解決だがclose判断はメンテナに委ねる"
+ }
+]
